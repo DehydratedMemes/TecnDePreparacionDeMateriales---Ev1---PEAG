@@ -1,0 +1,123 @@
+%arara: lualatex: { branch: developer, interaction: errorstopmode,
+%arara: --> shell: yes, synctex: yes }
+
+% \DocumentMetadata{testphase=phase-III}
+\DocumentMetadata{lang=es-MX}
+
+% NOTA: [<+->] se usa comio overlay para hacer que los bullets aparezcan uno por uno.
+
+
+\documentclass[%
+spanish,
+progressbar=head,
+background=dark,
+]{beamer}
+
+\usepackage{babel}
+\usepackage{microtype}
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs}
+\usepackage{siunitx}
+
+\usetheme{metropolis}
+% \usecolortheme{orchid}
+% \title{Técnicas de preparación de materiales}
+\title{Aleaciones mecánicas}
+\subtitle{Variables del proceso de molienda}
+\date{\today}
+\author{Pablo E. Alanis}
+\institute{Universidad Autónoma de Nuevo Leon, División de Posgrado\\Técnicas de preparación de materiales}
+\begin{document}
+\maketitle
+
+\section{Variables del proceso}
+\begin{frame}{Aleaciones mecánicas | Variables del proceso}
+    \begin{itemize}
+        \item El proceso de \emph{aleación mecanica} es complejo;
+        \item para obtener el producto deseado, se tienen que \textit{optimizar} las condiciones de reacción.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Aleaciones mecánicas | Variables del proceso}
+    Entre algunas de las variables que afectan la fase del producto final obtenido, se encuentran:
+
+    \begin{itemize}
+        \item \emph{tipo} de molino;
+        \item \emph{contenedor} del molino;
+        \item \emph{velocidad} de molienda;
+        \item \emph{tiempo} de molienda;
+        \item \emph{tipo, tamaño y distribución} del medio de molienda;
+        \item \emph{relación} en masa de bolas-polvo;
+        \item \emph{que tan lleno} está el vial;
+        \item \emph{atmósfera} de molienda;
+        \item \emph{agente de control} del proceso;
+        \item \emph{temperatura} de molienda.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Aleaciones mecánicas | Variables del proceso}
+\begin{itemize}
+    \item Estas variables no son necesariamente independientes;\\
+    \item[] \textbf{por ejemplo:} el tiempo de molienda optimo puede depender de: 
+    \begin{enumerate}
+        \item tipo de molino;
+        \item tamaño del medio de molienda;
+        \item temperatura de molienda;
+        \item relación bolas-polvo, etc.
+    \end{enumerate}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Aleaciones mecánicas | Variables del proceso}
+    \begin{itemize}
+        \item Estas variables no son necesariamente independientes;\\
+        \item[] \textbf{por ejemplo:} el tiempo de molienda optimo puede depender de: 
+        \begin{enumerate}
+            \item tipo de molino;
+            \item tamaño del medio de molienda;
+            \item temperatura de molienda;
+            \item relación bolas-polvo, etc.
+        \end{enumerate}
+    \end{itemize}
+\end{frame}
+
+\subsection{Tipo de molino}
+
+\begin{frame}{Tipos de molinos}
+    \begin{itemize}
+        \item Existen varios tipos de molinos que pueden usarse según el propósito;
+        \item Éstos varían en:
+            \begin{enumerate}
+                \item capacidad;
+                \item velocidad de operación;
+                \item capacidad para controlar la temperatura.
+            \end{enumerate}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Capacidades de los molinos}
+    Según la cantidad de polvo que se requiera sintetizar, se pueden utilizar diferentes molinos:
+    \begin{itemize}
+        \item \textbf{Para propositos de \emph{screening}} se puede utilizar un molino tipo \emph{SPEX.}
+        \item \textbf{Para producir grandes cantidades de polvo} se puede utilizar un molino tipo Fristsch Pulverisette planetario.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Capacidades de los molinos --- Comparación}
+\begin{longtblr}[%
+    caption = {\small Comparación de tipos de molinos convencionales en función a cantidades de material que pueden procesar.},
+    % entry = {Short Caption},
+    label = {tbl:TipoDeMolino}]
+    {%
+    colspec = {XX}, width = 0.85\linewidth,
+    rowhead = 1
+    }
+    \toprule
+    Tipo de molino & Tamaño de muestra \\ \midrule
+    Molino mezclador & Hasta dos de \qty{20}{\gram} \\
+    Molino planetario & Hasta cuatro de \qty{250}{\gram} \\
+    Attritores & \qtyrange{0.5}{100}{\kilo\gram} \\
+    Molinos Uni-ball & Hasta cuatro de \qty{2000}{\gram} \\ \bottomrule
+\end{longtblr}
+\end{frame}
+\end{document}
