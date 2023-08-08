@@ -1,8 +1,8 @@
-08 Aug 2023 16:49:19.679 WARN  - Language  not available; defaulting to English.
-08 Aug 2023 16:49:19.682 INFO  - 
+08 Aug 2023 16:50:24.473 WARN  - Language  not available; defaulting to English.
+08 Aug 2023 16:50:24.479 INFO  - 
 Welcome to arara 7.1.0!
 -----------------------------------------------------------------
-08 Aug 2023 16:49:19.686 DEBUG - 
+08 Aug 2023 16:50:24.486 DEBUG - 
 ::: arara @ /usr/local/texlive/2023/texmf-dist/scripts/arara
 ::: Java 17.0.8, Debian
 ::: /usr/lib/jvm/java-17-openjdk-amd64
@@ -10,18 +10,18 @@ Welcome to arara 7.1.0!
 ::: user.home @ /home/pabloalanis
 ::: CF @ [none]
 -----------------------------------------------------------------
-08 Aug 2023 16:49:19.698 INFO  - Processing "TecnDePrepMat - Ev1 - PEAG.tex" (size: 4.3 kB, last modified: 2023-08-08 22:49:10), please wait.
-08 Aug 2023 16:49:19.714 INFO  - I found a potential pattern in line 1: lualatex: { branch: developer, interaction: errorstopmode,
-08 Aug 2023 16:49:19.714 INFO  - I found a potential pattern in line 2: --> shell: yes, synctex: yes }
-08 Aug 2023 16:49:19.981 INFO  - All directives were validated. We are good to go.
+08 Aug 2023 16:50:24.503 INFO  - Processing "TecnDePrepMat - Ev1 - PEAG.tex" (size: 4.3 kB, last modified: 2023-08-08 22:50:18), please wait.
+08 Aug 2023 16:50:24.533 INFO  - I found a potential pattern in line 1: lualatex: { branch: developer, interaction: errorstopmode,
+08 Aug 2023 16:50:24.534 INFO  - I found a potential pattern in line 2: --> shell: yes, synctex: yes }
+08 Aug 2023 16:50:24.896 INFO  - All directives were validated. We are good to go.
 -------------------------- DIRECTIVES ---------------------------
 Directive(identifier='lualatex', parameters={branch=developer, interaction=errorstopmode, shell=yes, synctex=yes, reference=/home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG/TecnDePrepMat - Ev1 - PEAG.tex},conditional={ NONE }, lineNumbers=[1, 2])
 -----------------------------------------------------------------
-08 Aug 2023 16:49:19.984 INFO  - I am ready to interpret rule "lualatex".
-08 Aug 2023 16:49:19.987 INFO  - Rule location: "/usr/local/texlive/2023/texmf-dist/scripts/arara/rules"
-08 Aug 2023 16:49:20.128 INFO  - I am ready to interpret task "LuaLaTeX engine" from rule "LuaLaTeX".
-08 Aug 2023 16:49:20.129 INFO  - System command: [lualatex-dev, --interaction=errorstopmode, --shell-escape, --synctex=1, TecnDePrepMat - Ev1 - PEAG.tex] @ /home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG
-08 Aug 2023 16:49:26.179 INFO  -                 ---------------------- BEGIN OUTPUT BUFFER ----------------------
+08 Aug 2023 16:50:24.900 INFO  - I am ready to interpret rule "lualatex".
+08 Aug 2023 16:50:24.904 INFO  - Rule location: "/usr/local/texlive/2023/texmf-dist/scripts/arara/rules"
+08 Aug 2023 16:50:25.053 INFO  - I am ready to interpret task "LuaLaTeX engine" from rule "LuaLaTeX".
+08 Aug 2023 16:50:25.054 INFO  - System command: [lualatex-dev, --interaction=errorstopmode, --shell-escape, --synctex=1, TecnDePrepMat - Ev1 - PEAG.tex] @ /home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG
+08 Aug 2023 16:50:30.978 INFO  -                 ---------------------- BEGIN OUTPUT BUFFER ----------------------
                 This is LuaHBTeX, Version 1.17.0 (TeX Live 2023) 
  system commands enabled.
 ("./TecnDePrepMat - Ev1 - PEAG.tex"
@@ -53,5 +53,5 @@ SyncTeX written on TecnDePrepMat - Ev1 - PEAG.synctex.gz.
 Transcript written on "TecnDePrepMat - Ev1 - PEAG.log".
 
                 ----------------------- END OUTPUT BUFFER -----------------------
-08 Aug 2023 16:49:26.183 INFO  - Task result: SUCCESS
-08 Aug 2023 16:49:26.186 INFO  - Total: 6.705 seconds
+08 Aug 2023 16:50:30.982 INFO  - Task result: SUCCESS
+08 Aug 2023 16:50:30.985 INFO  - Total: 6.794 seconds
