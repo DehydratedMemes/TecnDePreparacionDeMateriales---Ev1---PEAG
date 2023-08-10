@@ -27,8 +27,14 @@
 \headcommand {\beamer@framepages {10}{10}}
 \headcommand {\slideentry {1}{2}{2}{11/11}{Tipo de molino}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@partpages {1}{11}}
-\headcommand {\beamer@subsectionpages {10}{11}}
-\headcommand {\beamer@sectionpages {2}{11}}
-\headcommand {\beamer@documentpages {11}}
-\headcommand {\gdef \inserttotalframenumber {9}}
+\headcommand {\slideentry {1}{2}{3}{12/12}{Tipo de molino}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {1}{2}{4}{13/13}{Tipo de molino}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {1}{2}{5}{14/14}{Tipo de molino}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@partpages {1}{14}}
+\headcommand {\beamer@subsectionpages {10}{14}}
+\headcommand {\beamer@sectionpages {2}{14}}
+\headcommand {\beamer@documentpages {14}}
+\headcommand {\gdef \inserttotalframenumber {12}}
