@@ -1,9 +1,9 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex-dev 2023.7.27)  8 AUG 2023 16:50
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex-dev 2023.8.10)  10 AUG 2023 14:50
  system commands enabled.
 **"TecnDePrepMat - Ev1 - PEAG.tex"
 ("./TecnDePrepMat - Ev1 - PEAG.tex"
-LaTeX2e <2023-11-01> pre-release-0 (develop 2023-7-27 branch)
-L3 programming layer <2023-06-30>
+LaTeX2e <2023-11-01> pre-release-0 (develop 2023-8-10 branch)
+L3 programming layer <2023-08-03>
 Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
 Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended collection.
@@ -37,7 +37,7 @@ Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
 Inserting `tracingstacklevels' in `input_level_string'. (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/latex-lab/documentmetadata-support.ltx (/usr/local/texlive/2023/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-testphase.sty
 Package: pdfmanagement-testphase 2023-03-09 v0.95x LaTeX PDF management testphase bundle
  (/usr/local/texlive/2023/texmf-dist/tex/latex/tagpdf/tagpdf-base.sty
-Package: tagpdf-base 2023-07-08 v0.98j part of tagpdf - provide base, no-op versions of the user commands 
+Package: tagpdf-base 2023-08-04 v0.98k part of tagpdf - provide base, no-op versions of the user commands 
 \c@g__tag_MCID_abs_int=\count183
 \c@g__tag_struct_abs_int=\count184
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-testphase.ltx
@@ -730,7 +730,7 @@ Package microtype Info: Loading configuration file microtype.cfg.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/tabularray/tabularray.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-06-30 L3 programming layer (loader) 
+Package: expl3 2023-08-03 L3 programming layer (loader) 
 )
 Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
 \l__tblr_a_int=\count346
@@ -842,14 +842,8 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count372
 \@thisrulewidth=\dimen349
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2023-07-26 v3.2.9 A comprehensive (SI) units package
-\l__siunitx_angle_tmp_dim=\dimen350
-\l__siunitx_angle_marker_box=\box106
-\l__siunitx_angle_unit_box=\box107
-\l__siunitx_compound_count_int=\count373
- (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations.sty
-Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
-)
+Package: siunitx 2023-08-03 v3.3.2 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count373
 \l__siunitx_number_exponent_fixed_int=\count374
 \l__siunitx_number_min_decimal_int=\count375
 \l__siunitx_number_min_integer_int=\count376
@@ -859,6 +853,13 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages 
 \l__siunitx_number_group_first_int=\count380
 \l__siunitx_number_group_size_int=\count381
 \l__siunitx_number_group_minimum_int=\count382
+\l__siunitx_angle_tmp_dim=\dimen350
+\l__siunitx_angle_marker_box=\box106
+\l__siunitx_angle_unit_box=\box107
+\l__siunitx_compound_count_int=\count383
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+)
 \l__siunitx_table_tmp_box=\box108
 \l__siunitx_table_tmp_dim=\dimen351
 \l__siunitx_table_column_width_dim=\dimen352
@@ -869,9 +870,9 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages 
 \l__siunitx_table_after_box=\box113
 \l__siunitx_table_before_dim=\dimen353
 \l__siunitx_table_carry_dim=\dimen354
-\l__siunitx_unit_tmp_int=\count383
-\l__siunitx_unit_position_int=\count384
-\l__siunitx_unit_total_int=\count385
+\l__siunitx_unit_tmp_int=\count384
+\l__siunitx_unit_position_int=\count385
+\l__siunitx_unit_total_int=\count386
  (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen355
@@ -891,15 +892,15 @@ Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
  (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count386
-\calc@Bcount=\count387
+\calc@Acount=\count387
+\calc@Bcount=\count388
 \calc@Adimen=\dimen357
 \calc@Bdimen=\dimen358
 \calc@Askip=\skip68
 \calc@Bskip=\skip69
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count388
+\calc@Ccount=\count389
 \calc@Cskip=\skip70
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
@@ -924,7 +925,7 @@ Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count389
+\pgf@plot@mark@count=\count390
 \pgfplotmarksize=\dimen363
 )
 \tikz@lastx=\dimen364
@@ -939,17 +940,17 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box118
 \tikz@tempbox=\box119
 \tikz@tempbox@bg=\box120
-\tikztreelevel=\count390
-\tikznumberofchildren=\count391
-\tikznumberofcurrentchild=\count392
-\tikz@fig@count=\count393
+\tikztreelevel=\count391
+\tikznumberofchildren=\count392
+\tikznumberofcurrentchild=\count393
+\tikz@fig@count=\count394
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count394
-\pgfmatrixcurrentcolumn=\count395
-\pgf@matrix@numberofcolumns=\count396
+\pgfmatrixcurrentrow=\count395
+\pgfmatrixcurrentcolumn=\count396
+\pgf@matrix@numberofcolumns=\count397
 )
-\tikz@expandcount=\count397
+\tikz@expandcount=\count398
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
@@ -978,24 +979,24 @@ Package: xparse 2023-02-02 L3 Experimental document command parser
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count398
-\l__fontspec_language_int=\count399
-\l__fontspec_strnum_int=\count400
-\l__fontspec_tmp_int=\count401
-\l__fontspec_tmpa_int=\count402
-\l__fontspec_tmpb_int=\count403
-\l__fontspec_tmpc_int=\count404
-\l__fontspec_em_int=\count405
-\l__fontspec_emdef_int=\count406
-\l__fontspec_strong_int=\count407
-\l__fontspec_strongdef_int=\count408
+\l__fontspec_script_int=\count399
+\l__fontspec_language_int=\count400
+\l__fontspec_strnum_int=\count401
+\l__fontspec_tmp_int=\count402
+\l__fontspec_tmpa_int=\count403
+\l__fontspec_tmpb_int=\count404
+\l__fontspec_tmpc_int=\count405
+\l__fontspec_em_int=\count406
+\l__fontspec_emdef_int=\count407
+\l__fontspec_strong_int=\count408
+\l__fontspec_strongdef_int=\count409
 \l__fontspec_tmpa_dim=\dimen372
 \l__fontspec_tmpb_dim=\dimen373
 \l__fontspec_tmpc_dim=\dimen374
  (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-\c@fontsnotfound=\count409
+\c@fontsnotfound=\count410
 luaotfload | cache : Lookup cache loaded from /home/pabloalanis/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
 Package fontspec Info: Font family 'FiraSansLight(0)' created for font 'Fira
@@ -1078,37 +1079,37 @@ Package fontspec Info: Font family 'FiraMono(0)' created for font 'Fira Mono'
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count410
+\BKM@id=\count411
 )) ("./TecnDePrepMat - Ev1 - PEAG.aux"
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
 \openout1 = TecnDePrepMat - Ev1 - PEAG.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 36.
  (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1146,16 +1147,16 @@ LaTeX Font Info:    ... okay on input line 30.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count411
+\scratchcounter=\count412
 \scratchdimen=\dimen375
 \scratchbox=\box121
-\nofMPsegments=\count412
-\nofMParguments=\count413
+\nofMPsegments=\count413
+\nofMParguments=\count414
 \everyMPshowfont=\toks55
-\MPscratchCnt=\count414
+\MPscratchCnt=\count415
 \MPscratchDim=\dimen376
-\MPnumerator=\count415
-\makeMPintoPDFobject=\count416
+\MPnumerator=\count416
+\makeMPintoPDFobject=\count417
 \everyMPtoPDFconversion=\toks56
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1169,49 +1170,49 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 30.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 30.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 36.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmr/m/n on input line 30.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 30.
+(Font)                  OT1/cmss/m/n --> TU/lmr/m/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/FiraSansLight(0)/b/n on input line 30.
+(Font)                  OT1/cmr/bx/n --> TU/FiraSansLight(0)/b/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/FiraSansLight(0)/b/n on input line 30.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 30.
+(Font)                  OT1/cmr/bx/n --> TU/FiraSansLight(0)/b/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/FiraSansLight(0)/m/n on input line 30.
+(Font)                  OT1/cmss/m/n --> TU/FiraSansLight(0)/m/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/FiraSansLight(0)/m/n on input line 30.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+(Font)                  OT1/cmss/bx/n --> TU/FiraSansLight(0)/m/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/FiraSansLight(0)/m/it on input line 30.
+(Font)                  OT1/cmr/m/it --> TU/FiraSansLight(0)/m/it on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/FiraSansLight(0)/m/it on input line 30.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 30.
+(Font)                  OT1/cmr/bx/it --> TU/FiraSansLight(0)/m/it on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 30.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 30.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 36.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/b/n on input line 30.
+(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/b/n on input line 36.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/FiraSansLight(0)/m/it --> TU/FiraSansLight(0)/b/it on input line 30.
+(Font)                  TU/FiraSansLight(0)/m/it --> TU/FiraSansLight(0)/b/it on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> TU/lmr/b/n on input line 30.
+(Font)                  OT1/cmss/b/n --> TU/lmr/b/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/FiraSansLight(0)/b/n --> TU/FiraSansLight(0)/b/n on input line 30.
+(Font)                  TU/FiraSansLight(0)/b/n --> TU/FiraSansLight(0)/b/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/b/n on input line 30.
+(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/b/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/FiraSansLight(0)/m/it --> TU/FiraSansLight(0)/b/it on input line 30.
+(Font)                  TU/FiraSansLight(0)/m/it --> TU/FiraSansLight(0)/b/it on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/FiraMono(0)/m/n --> TU/FiraMono(0)/b/n on input line 30.
+(Font)                  TU/FiraMono(0)/m/n --> TU/FiraMono(0)/b/n on input line 36.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-Spanish.dict
@@ -1237,21 +1238,21 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-Spanish.dict
 Dictionary: translator-theorem-dictionary, Language: Spanish 
 )
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
-LaTeX Info: Redefining \microtypecontext on input line 30.
-Package microtype Info: Applying patch `item' on input line 30.
-Package microtype Info: Applying patch `toc' on input line 30.
-Package microtype Info: Applying patch `eqnum' on input line 30.
-Package microtype Info: Applying patch `footnote' on input line 30.
-Package microtype Info: Applying patch `verbatim' on input line 30.
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+LaTeX Info: Redefining \microtypecontext on input line 36.
+Package microtype Info: Applying patch `item' on input line 36.
+Package microtype Info: Applying patch `toc' on input line 36.
+Package microtype Info: Applying patch `eqnum' on input line 36.
+Package microtype Info: Applying patch `footnote' on input line 36.
+Package microtype Info: Applying patch `verbatim' on input line 36.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 30.
+LaTeX Info: Redefining \showhyphens on input line 36.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -1260,13 +1261,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/ninecolors/ninecolors.sty
-Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-spanish.trsl
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 30.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 36.
  ("./TecnDePrepMat - Ev1 - PEAG.nav")
-Overfull \vbox (15.63992pt too high) detected at line 31
+Overfull \vbox (15.63992pt too high) detected at line 37
  []
 
 [1
@@ -1276,13 +1277,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -1314,6 +1315,8 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 ] [10
 
+] [11
+
 ]
 \tf@nav=\write5
 
@@ -1329,25 +1332,25 @@ LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
  ***********
-LaTeX2e <2023-11-01> pre-release-0 (develop 2023-7-27 branch)
-L3 programming layer <2023-06-30>
+LaTeX2e <2023-11-01> pre-release-0 (develop 2023-8-10 branch)
+L3 programming layer <2023-08-03>
  ***********
 )
 
 Here is how much of LuaTeX's memory you used:
- 39982 strings out of 477546
+ 40111 strings out of 477514
  125031,1977958 words of node,token memory allocated
- 1520 words of node memory still in use:
-   24 hlist, 8 vlist, 5 rule, 3 local_par, 30 glue, 9 kern, 11 penalty, 1 margin_kern, 13 glyph, 96 attribute, 71 glue_spec, 50 attribute_list, 3 write, 16 pdf_colorstack nodes
-   avail lists: 2:1039,3:188,4:276,5:309,6:44,7:2180,8:4,9:775,10:11,11:237
- 59960 multiletter control sequences out of 65536+600000
+ 5562 words of node memory still in use:
+   49 hlist, 8 vlist, 5 rule, 45 disc, 9 local_par, 126 glue, 78 kern, 31 penalty, 5 margin_kern, 254 glyph, 230 attribute, 71 glue_spec, 117 attribute_list, 3 write, 42 pdf_colorstack nodes
+   avail lists: 2:838,3:168,4:246,5:243,6:38,7:1843,8:4,9:750,10:11,11:192
+ 60118 multiletter control sequences out of 65536+600000
  71 fonts using 16039199 bytes
- 128i,13n,131p,1894b,1129s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,13n,131p,1894b,1143s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Italic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-LightItalic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Light.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on TecnDePrepMat - Ev1 - PEAG.pdf (10 pages, 48100 bytes).
+Output written on TecnDePrepMat - Ev1 - PEAG.pdf (11 pages, 50172 bytes).
 
-PDF statistics: 123 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
- 24 named destinations out of 1000 (max. 131072)
- 82 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 135 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
+ 27 named destinations out of 1000 (max. 131072)
+ 95 words of extra memory for PDF output out of 10000 (max. 100000000)
 
