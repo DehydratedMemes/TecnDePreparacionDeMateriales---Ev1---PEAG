@@ -1,8 +1,8 @@
-11 Aug 2023 14:07:12.131 WARN  - Language  not available; defaulting to English.
-11 Aug 2023 14:07:12.134 INFO  - 
+11 Aug 2023 16:42:15.356 WARN  - Language  not available; defaulting to English.
+11 Aug 2023 16:42:15.365 INFO  - 
 Welcome to arara 7.1.0!
 -----------------------------------------------------------------
-11 Aug 2023 14:07:12.138 DEBUG - 
+11 Aug 2023 16:42:15.371 DEBUG - 
 ::: arara @ /usr/local/texlive/2023/texmf-dist/scripts/arara
 ::: Java 17.0.8, Debian
 ::: /usr/lib/jvm/java-17-openjdk-amd64
@@ -10,18 +10,20 @@ Welcome to arara 7.1.0!
 ::: user.home @ /home/pabloalanis
 ::: CF @ [none]
 -----------------------------------------------------------------
-11 Aug 2023 14:07:12.150 INFO  - Processing "TecnDePrepMat - Ev1 - PEAG.tex" (size: 9.3 kB, last modified: 2023-08-11 20:06:59), please wait.
-11 Aug 2023 14:07:12.170 INFO  - I found a potential pattern in line 1: lualatex: { branch: developer, interaction: errorstopmode,
-11 Aug 2023 14:07:12.170 INFO  - I found a potential pattern in line 2: --> shell: yes, synctex: yes }
-11 Aug 2023 14:07:12.432 INFO  - All directives were validated. We are good to go.
--------------------------- DIRECTIVES ---------------------------
-Directive(identifier='lualatex', parameters={branch=developer, interaction=errorstopmode, shell=yes, synctex=yes, reference=/home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG/TecnDePrepMat - Ev1 - PEAG.tex},conditional={ NONE }, lineNumbers=[1, 2])
------------------------------------------------------------------
-11 Aug 2023 14:07:12.435 INFO  - I am ready to interpret rule "lualatex".
-11 Aug 2023 14:07:12.438 INFO  - Rule location: "/usr/local/texlive/2023/texmf-dist/scripts/arara/rules"
-11 Aug 2023 14:07:12.607 INFO  - I am ready to interpret task "LuaLaTeX engine" from rule "LuaLaTeX".
-11 Aug 2023 14:07:12.608 INFO  - System command: [lualatex-dev, --interaction=errorstopmode, --shell-escape, --synctex=1, TecnDePrepMat - Ev1 - PEAG.tex] @ /home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG
-11 Aug 2023 14:07:20.380 INFO  -                 ---------------------- BEGIN OUTPUT BUFFER ----------------------
+11 Aug 2023 16:42:15.393 INFO  - Processing "TecnDePrepMat - Ev1 - PEAG.tex" (size: 11.9 kB, last modified: 2023-08-11 22:42:14), please wait.
+11 Aug 2023 16:42:15.452 INFO  - I found a potential pattern in line 1: lualatex: { branch: developer, interaction: errorstopmode,
+11 Aug 2023 16:42:15.454 INFO  - I found a potential pattern in line 2: --> shell: yes, synctex: yes }
+11 Aug 2023 16:42:15.455 INFO  - I found a potential pattern in line 3: biber: { options: [ '--wraplines' ] }
+11 Aug 2023 16:42:15.776 INFO  -                     All directives were validated. We are good to go.
+                    -------------------------- DIRECTIVES ---------------------------
+                    Directive(identifier='lualatex', parameters={branch=developer, interaction=errorstopmode, shell=yes, synctex=yes, reference=/home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG/TecnDePrepMat - Ev1 - PEAG.tex},conditional={ NONE }, lineNumbers=[1, 2])
+Directive(identifier='biber', parameters={options=[--wraplines], reference=/home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG/TecnDePrepMat - Ev1 - PEAG.tex},conditional={ NONE }, lineNumbers=[3])
+                    -----------------------------------------------------------------
+11 Aug 2023 16:42:15.778 INFO  - I am ready to interpret rule "lualatex".
+11 Aug 2023 16:42:15.780 INFO  - Rule location: "/usr/local/texlive/2023/texmf-dist/scripts/arara/rules"
+11 Aug 2023 16:42:15.918 INFO  - I am ready to interpret task "LuaLaTeX engine" from rule "LuaLaTeX".
+11 Aug 2023 16:42:15.919 INFO  - System command: [lualatex-dev, --interaction=errorstopmode, --shell-escape, --synctex=1, TecnDePrepMat - Ev1 - PEAG.tex] @ /home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG
+11 Aug 2023 16:42:27.151 INFO  -                 ---------------------- BEGIN OUTPUT BUFFER ----------------------
                 This is LuaHBTeX, Version 1.17.0 (TeX Live 2023) 
  system commands enabled.
 ("./TecnDePrepMat - Ev1 - PEAG.tex"
@@ -70,51 +72,65 @@ Loading the chemmacros module `thermodynamics' ...
 Loading the chemmacros module `units' ...
 Loading the chemmacros module `reactants' ...
 Loading the chemmacros module `translations' ...
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/ifthen.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-unicode.def) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty)) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/tools/verbatim.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/environ/environ.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/trimspaces/trimspaces.sty)) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/multimedia.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifpdf.sty)) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/ifthen.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-unicode.def) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty)) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/tools/verbatim.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/environ/environ.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/trimspaces/trimspaces.sty)) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '6.0.4'
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.0.4'
-))) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgfopts/pgfopts.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerinnerthememetropolis.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerouterthememetropolis.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthememetropolis.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerfontthememetropolis.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifxetex.sty) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/fontenc.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg))))) (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bkm-pdftex.def))
+))) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgfopts/pgfopts.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerinnerthememetropolis.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerouterthememetropolis.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthememetropolis.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerfontthememetropolis.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifxetex.sty) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/fontenc.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg))))) (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bkm-pdftex.def))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/chemformula/chemformula.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/units/nicefrac.sty) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex))
-No file "TecnDePrepMat - Ev1 - PEAG".aux.
-(/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/ts1cmr.fd)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/chemformula/chemformula.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/units/nicefrac.sty) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex)) ("./TecnDePrepMat - Ev1 - PEAG.aux") (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/ts1cmr.fd)
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/ninecolors/ninecolors.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-spanish.trsl) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx)
-No file "TecnDePrepMat - Ev1 - PEAG".bbl.
-("./TecnDePrepMat - Ev1 - PEAG.nav") (/usr/local/texlive/2023/texmf-dist/tex/latex/elements/elements_names_spanish.def)
-Overfull \vbox (15.63992pt too high) detected at line 44
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-Spanish.dict) (/usr/local/texlive/2023/texmf-dist/tex/latex/ninecolors/ninecolors.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-spanish.trsl) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx) ("./TecnDePrepMat - Ev1 - PEAG.bbl") ("./TecnDePrepMat - Ev1 - PEAG.nav") (/usr/local/texlive/2023/texmf-dist/tex/latex/elements/elements_names_spanish.def)
+Overfull \vbox (15.63992pt too high) detected at line 56
 [1
-Non-PDF special ignored!{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msb.cfg) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg) [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
-Overfull \vbox (20.91125pt too high) detected at line 205
-[14] [15] [16]
+Non-PDF special ignored!{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msb.cfg) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg) [2] [3<./figuras/milling.png>] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13<./figuras/materiales/cu.jpg>] [14<./figuras/materiales/ti.jpg>] [15<./figuras/materiales/zap.jpg>] [16<./figuras/materiales/aga.jpeg>] [17<./figuras/materiales/por.jpg>] [18<./figuras/materiales/sin.png>] [19<./figuras/materiales/cube.jpg>] [20] [21] [22]
+Overfull \vbox (31.18661pt too high) detected at line 241
+[23<./figuras/efectoXRD.png>] [24] [25<./figuras/Cs/vel1.jpeg>] [26] [27] [28] [29] [30] [31] [32] [33</usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] ("./TecnDePrepMat - Ev1 - PEAG.aux")
 
-LaTeX Warning: Citation 'calka1991universal' on page 17 undefined on input line 243.
+LaTeX Warning: There were undefined references.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Access to an entry beyond an array's bounds.
-l.243 \end{frame}
-               
-? 
-! Emergency stop.
-<argument> \???  
-      ! LaTeX Error: Access to an entry beyond an array's bounds.
-l.243 \end{frame}
-               
- 15071 words of node memory still in use:
-   97 hlist, 36 vlist, 17 rule, 154 disc, 19 local_par, 2 dir, 310 glue, 188 kern, 50 penalty, 11 margin_kern, 915 glyph, 494 attribute, 90 glue_spec, 249 attribute_list, 1 temp, 2 write, 46 pdf_colorstack nodes
-   avail lists: 1:2,2:477,3:405,4:236,5:193,6:29,7:1382,8:14,9:664,10:13,11:131,12:1
-!  ==> Fatal error occurred, no output PDF file produced!SyncTeX written on TecnDePrepMat - Ev1 - PEAG.synctex.gz.
 
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                "TecnDePrepMat - Ev1 - PEAG"
+(biblatex)                and rerun LaTeX afterwards.
+
+)
+(see the transcript file for additional information)
+ 7418 words of node memory still in use:
+   46 hlist, 9 vlist, 7 rule, 44 disc, 7 local_par, 2 math, 140 glue, 92 kern, 37 penalty, 5 margin_kern, 388 glyph, 390 attribute, 89 glue_spec, 197 attribute_list, 9 write, 28 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 3 pdf_dest, 1 pdf_action, 48 pdf_colorstack nodes
+   avail lists: 1:1,2:1108,3:752,4:242,5:251,6:43,7:1698,8:14,9:762,10:13,11:193,12:1
+</usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Italic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-LightItalic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Light.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on TecnDePrepMat - Ev1 - PEAG.pdf (33 pages, 604490 bytes).
+SyncTeX written on TecnDePrepMat - Ev1 - PEAG.synctex.gz.
 Transcript written on "TecnDePrepMat - Ev1 - PEAG.log".
 
                 ----------------------- END OUTPUT BUFFER -----------------------
-11 Aug 2023 14:07:20.384 INFO  - Task result: FAILURE
-11 Aug 2023 14:07:20.387 INFO  - Total: 8.441 seconds
+11 Aug 2023 16:42:27.155 INFO  - Task result: SUCCESS
+11 Aug 2023 16:42:27.156 INFO  - I am ready to interpret rule "biber".
+11 Aug 2023 16:42:27.158 INFO  - Rule location: "/usr/local/texlive/2023/texmf-dist/scripts/arara/rules"
+11 Aug 2023 16:42:27.168 INFO  - I am ready to interpret task "The Biber reference management software" from rule "Biber".
+11 Aug 2023 16:42:27.169 INFO  - System command: [biber, --wraplines, TecnDePrepMat - Ev1 - PEAG] @ /home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG
+11 Aug 2023 16:42:28.400 INFO  -                 ---------------------- BEGIN OUTPUT BUFFER ----------------------
+                INFO - This is Biber 2.19
+INFO - Logfile is 'TecnDePrepMat - Ev1 - PEAG.blg'
+INFO - Reading 'TecnDePrepMat - Ev1 - PEAG.bcf'
+INFO - Found 2 citekeys in bib section 0
+INFO - Processing section 0
+INFO - Looking for bibtex file 'Bibliografia.bib' for section 0
+INFO - LaTeX decoding ...
+INFO - Found BibTeX data source 'Bibliografia.bib'
+INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+INFO - Writing 'TecnDePrepMat - Ev1 - PEAG.bbl' with encoding 'UTF-8'
+INFO - Output to TecnDePrepMat - Ev1 - PEAG.bbl
+
+                ----------------------- END OUTPUT BUFFER -----------------------
+11 Aug 2023 16:42:28.400 INFO  - Task result: SUCCESS
+11 Aug 2023 16:42:28.404 INFO  - Total: 13.380 seconds

@@ -1,0 +1,107 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{calka1991}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dcd2b6bfdc17a85f6ceff65ab6fb85b0}{%
+           family={Calka},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f2f97976ca2ed66b976c29a12c7dcb0}{%
+           family={Radlinski},
+           familyi={R\bibinitperiod},
+           given={AP},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{17b2f0e183df1cbd96466c0899bbc681}
+      \strng{fullhash}{17b2f0e183df1cbd96466c0899bbc681}
+      \strng{bibnamehash}{17b2f0e183df1cbd96466c0899bbc681}
+      \strng{authorbibnamehash}{17b2f0e183df1cbd96466c0899bbc681}
+      \strng{authornamehash}{17b2f0e183df1cbd96466c0899bbc681}
+      \strng{authorfullhash}{17b2f0e183df1cbd96466c0899bbc681}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materials Science and Engineering: A}
+      \field{title}{{Universal high performance ball-milling device and its
+      application for mechanical alloying}}
+      \field{volume}{134}
+      \field{year}{1991}
+      \field{pages}{1350\bibrangedash 1353}
+      \range{pages}{4}
+    \endentry
+    \entry{harringa1992effects}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=36c73ce7f160de5ce35df1f423007d63}{%
+           family={Harringa},
+           familyi={H\bibinitperiod},
+           given={JL},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d519327e76c1ea131a9141b64c1fcbf}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={BA},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2535c14bb717d1bb47dbe8dc1098cd0}{%
+           family={Beaudry},
+           familyi={B\bibinitperiod},
+           given={BJ},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{23dff546f330bbddf308227c6ed1c0ee}
+      \strng{fullhash}{23dff546f330bbddf308227c6ed1c0ee}
+      \strng{bibnamehash}{23dff546f330bbddf308227c6ed1c0ee}
+      \strng{authorbibnamehash}{23dff546f330bbddf308227c6ed1c0ee}
+      \strng{authornamehash}{23dff546f330bbddf308227c6ed1c0ee}
+      \strng{authorfullhash}{23dff546f330bbddf308227c6ed1c0ee}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of materials science}
+      \field{title}{{Effects of vial shape on the rate of mechanical alloying
+      in Si₈₀Ge₂₀}}
+      \field{volume}{27}
+      \field{year}{1992}
+      \field{pages}{801\bibrangedash 804}
+      \range{pages}{4}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

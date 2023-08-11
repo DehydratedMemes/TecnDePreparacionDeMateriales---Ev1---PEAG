@@ -1,0 +1,14 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'TecnDePrepMat - Ev1 - PEAG.blg'
+[82] biber:340> INFO - === Fri Aug 11, 2023, 16:42:28
+[98] Biber.pm:419> INFO - Reading 'TecnDePrepMat - Ev1 - PEAG.bcf'
+[159] Biber.pm:979> INFO - Found 2 citekeys in bib section 0
+[171] Biber.pm:4419> INFO - Processing section 0
+[180] Biber.pm:4610> INFO - Looking for bibtex file 'Bibliografia.bib' for section 0
+[181] bibtex.pm:1713> INFO - LaTeX decoding ...
+[185] bibtex.pm:1519> INFO - Found BibTeX data source 'Bibliografia.bib'
+[225] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[226] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[226] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[229] bbl.pm:660> INFO - Writing 'TecnDePrepMat - Ev1 - PEAG.bbl' with encoding 'UTF-8'
+[230] bbl.pm:763> INFO - Output to TecnDePrepMat - Ev1 - PEAG.bbl
