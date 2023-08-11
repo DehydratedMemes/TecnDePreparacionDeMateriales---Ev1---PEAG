@@ -1,8 +1,8 @@
-11 Aug 2023 16:42:15.356 WARN  - Language  not available; defaulting to English.
-11 Aug 2023 16:42:15.365 INFO  - 
+11 Aug 2023 16:48:03.561 WARN  - Language  not available; defaulting to English.
+11 Aug 2023 16:48:03.568 INFO  - 
 Welcome to arara 7.1.0!
 -----------------------------------------------------------------
-11 Aug 2023 16:42:15.371 DEBUG - 
+11 Aug 2023 16:48:03.579 DEBUG - 
 ::: arara @ /usr/local/texlive/2023/texmf-dist/scripts/arara
 ::: Java 17.0.8, Debian
 ::: /usr/lib/jvm/java-17-openjdk-amd64
@@ -10,20 +10,20 @@ Welcome to arara 7.1.0!
 ::: user.home @ /home/pabloalanis
 ::: CF @ [none]
 -----------------------------------------------------------------
-11 Aug 2023 16:42:15.393 INFO  - Processing "TecnDePrepMat - Ev1 - PEAG.tex" (size: 11.9 kB, last modified: 2023-08-11 22:42:14), please wait.
-11 Aug 2023 16:42:15.452 INFO  - I found a potential pattern in line 1: lualatex: { branch: developer, interaction: errorstopmode,
-11 Aug 2023 16:42:15.454 INFO  - I found a potential pattern in line 2: --> shell: yes, synctex: yes }
-11 Aug 2023 16:42:15.455 INFO  - I found a potential pattern in line 3: biber: { options: [ '--wraplines' ] }
-11 Aug 2023 16:42:15.776 INFO  -                     All directives were validated. We are good to go.
+11 Aug 2023 16:48:03.599 INFO  - Processing "TecnDePrepMat - Ev1 - PEAG.tex" (size: 11.9 kB, last modified: 2023-08-11 22:48:02), please wait.
+11 Aug 2023 16:48:03.631 INFO  - I found a potential pattern in line 1: lualatex: { branch: developer, interaction: errorstopmode,
+11 Aug 2023 16:48:03.631 INFO  - I found a potential pattern in line 2: --> shell: yes, synctex: yes }
+11 Aug 2023 16:48:03.632 INFO  - I found a potential pattern in line 3: biber: { options: [ '--wraplines' ] }
+11 Aug 2023 16:48:03.986 INFO  -                     All directives were validated. We are good to go.
                     -------------------------- DIRECTIVES ---------------------------
                     Directive(identifier='lualatex', parameters={branch=developer, interaction=errorstopmode, shell=yes, synctex=yes, reference=/home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG/TecnDePrepMat - Ev1 - PEAG.tex},conditional={ NONE }, lineNumbers=[1, 2])
 Directive(identifier='biber', parameters={options=[--wraplines], reference=/home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG/TecnDePrepMat - Ev1 - PEAG.tex},conditional={ NONE }, lineNumbers=[3])
                     -----------------------------------------------------------------
-11 Aug 2023 16:42:15.778 INFO  - I am ready to interpret rule "lualatex".
-11 Aug 2023 16:42:15.780 INFO  - Rule location: "/usr/local/texlive/2023/texmf-dist/scripts/arara/rules"
-11 Aug 2023 16:42:15.918 INFO  - I am ready to interpret task "LuaLaTeX engine" from rule "LuaLaTeX".
-11 Aug 2023 16:42:15.919 INFO  - System command: [lualatex-dev, --interaction=errorstopmode, --shell-escape, --synctex=1, TecnDePrepMat - Ev1 - PEAG.tex] @ /home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG
-11 Aug 2023 16:42:27.151 INFO  -                 ---------------------- BEGIN OUTPUT BUFFER ----------------------
+11 Aug 2023 16:48:03.988 INFO  - I am ready to interpret rule "lualatex".
+11 Aug 2023 16:48:03.992 INFO  - Rule location: "/usr/local/texlive/2023/texmf-dist/scripts/arara/rules"
+11 Aug 2023 16:48:04.131 INFO  - I am ready to interpret task "LuaLaTeX engine" from rule "LuaLaTeX".
+11 Aug 2023 16:48:04.132 INFO  - System command: [lualatex-dev, --interaction=errorstopmode, --shell-escape, --synctex=1, TecnDePrepMat - Ev1 - PEAG.tex] @ /home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG
+11 Aug 2023 16:48:14.689 INFO  -                 ---------------------- BEGIN OUTPUT BUFFER ----------------------
                 This is LuaHBTeX, Version 1.17.0 (TeX Live 2023) 
  system commands enabled.
 ("./TecnDePrepMat - Ev1 - PEAG.tex"
@@ -111,12 +111,12 @@ SyncTeX written on TecnDePrepMat - Ev1 - PEAG.synctex.gz.
 Transcript written on "TecnDePrepMat - Ev1 - PEAG.log".
 
                 ----------------------- END OUTPUT BUFFER -----------------------
-11 Aug 2023 16:42:27.155 INFO  - Task result: SUCCESS
-11 Aug 2023 16:42:27.156 INFO  - I am ready to interpret rule "biber".
-11 Aug 2023 16:42:27.158 INFO  - Rule location: "/usr/local/texlive/2023/texmf-dist/scripts/arara/rules"
-11 Aug 2023 16:42:27.168 INFO  - I am ready to interpret task "The Biber reference management software" from rule "Biber".
-11 Aug 2023 16:42:27.169 INFO  - System command: [biber, --wraplines, TecnDePrepMat - Ev1 - PEAG] @ /home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG
-11 Aug 2023 16:42:28.400 INFO  -                 ---------------------- BEGIN OUTPUT BUFFER ----------------------
+11 Aug 2023 16:48:14.692 INFO  - Task result: SUCCESS
+11 Aug 2023 16:48:14.693 INFO  - I am ready to interpret rule "biber".
+11 Aug 2023 16:48:14.695 INFO  - Rule location: "/usr/local/texlive/2023/texmf-dist/scripts/arara/rules"
+11 Aug 2023 16:48:14.707 INFO  - I am ready to interpret task "The Biber reference management software" from rule "Biber".
+11 Aug 2023 16:48:14.708 INFO  - System command: [biber, --wraplines, TecnDePrepMat - Ev1 - PEAG] @ /home/pabloalanis/Desktop/TecnDePreparacionDeMateriales - Ev1 - PEAG
+11 Aug 2023 16:48:15.901 INFO  -                 ---------------------- BEGIN OUTPUT BUFFER ----------------------
                 INFO - This is Biber 2.19
 INFO - Logfile is 'TecnDePrepMat - Ev1 - PEAG.blg'
 INFO - Reading 'TecnDePrepMat - Ev1 - PEAG.bcf'
@@ -125,12 +125,12 @@ INFO - Processing section 0
 INFO - Looking for bibtex file 'Bibliografia.bib' for section 0
 INFO - LaTeX decoding ...
 INFO - Found BibTeX data source 'Bibliografia.bib'
-INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
 INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
 INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
 INFO - Writing 'TecnDePrepMat - Ev1 - PEAG.bbl' with encoding 'UTF-8'
 INFO - Output to TecnDePrepMat - Ev1 - PEAG.bbl
 
                 ----------------------- END OUTPUT BUFFER -----------------------
-11 Aug 2023 16:42:28.400 INFO  - Task result: SUCCESS
-11 Aug 2023 16:42:28.404 INFO  - Total: 13.380 seconds
+11 Aug 2023 16:48:15.901 INFO  - Task result: SUCCESS
+11 Aug 2023 16:48:15.905 INFO  - Total: 12.700 seconds
