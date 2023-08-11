@@ -20,6 +20,9 @@ subsectionpage
 \UseTblrLibrary{booktabs}
 \usepackage{siunitx}
 \usepackage{chemmacros}
+\usepackage[style=authoryear,sorting=ynt]{biblatex}
+    \addbibresource{./Bibliografia.bib}
+
 
 \usepackage[skins]{tcolorbox}
     \tcbset{skin=beamer}
@@ -226,6 +229,24 @@ subsectionpage
                 \item incrementa el riesgo de contaminación de polvos.
             \end{itemize}
         \end{enumerate}
+\end{frame}
+
+\begin{frame}
+    En algunas investigaciones, se han reportado \emph{cambios en la morfología} en función de la \emph{velocidad}:\autocite{calka1991universal} \note{En algunas investigaciones se ha reoprtado que a diferentes velocidades se producen diferentes fases}
+
+    \begin{longtblr}[caption={Relación de la velocidad con las fases obtenidas}]{colspec = {XX}, width = 0.85\linewidth, rowhead = 1}
+    \toprule 
+    Fase obtenida & Velocidad de molienda \\
+
+        
+    \end{longtblr}
+\end{frame}
+
+
+\begin{frame}
+\printbibheading
+\printbibliography[type=book,heading=subbibliography,title={Book Sources}]
+\printbibliography[nottype=book,heading=subbibliography,title={Other Sources}]
 \end{frame}
 
 \end{document}
