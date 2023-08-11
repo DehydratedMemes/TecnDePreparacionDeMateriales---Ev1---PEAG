@@ -21,6 +21,9 @@ subsectionpage
 \usepackage{siunitx}
 \usepackage{chemmacros}
 
+\usepackage[skins]{tcolorbox}
+    \tcbset{skin=beamer}
+
 % \usepackage{pgfpages}
 % \setbeamertemplate{note page}[plain]
 % \setbeameroption{show notes on second screen=right}
@@ -169,7 +172,7 @@ subsectionpage
 \begin{itemize}
     \item La forma del contenedor puede afectar en los tiempos de molienda drasticamente.
     \item para los molinos SPEX existen \emph{contenedores de fondo plano} y \emph{contenedores de fondo redondo}
-    \item El tiempo requerido para que se llegar a la misma intensidad en un pico en XRD en (111) fue de:
+    \item El tiempo requerido para que se llegara a la misma intensidad en un pico en XRD en (111) fue de:
     \begin{enumerate}
         \item \qty{9}{\hour} en el contenedor de fondo plano;
         \item \qty{15}{\hour} en el contenedor de fondo redondo.
@@ -178,11 +181,51 @@ subsectionpage
 \end{frame}
 
 \begin{frame}{Velocidad de molienda}
+    \small
     \begin{itemize}
-        \item A velocidades mayores que la \textit{velocidad crítica} las bolas estarian sujetas al contenedor y no causarían ningun impacto
+        \item A velocidades mayores que la \textit{velocidad crítica} las bolas estarían sujetas al contenedor y no causarían ningún impacto;
+        \item la velocidad debe ser ajustada para que sea menor que la \emph{velocidad crítica.} 
+    \end{itemize}
+
+    \begin{tcolorbox}[title={Velocidad crítica, \(C_s\):}]
+        \small
+        En un molino de bolas, la \emph{velocidad crítica (\(C_s\))} es la velocidad en la que el medio de molienda se adhiere, a causa de la fuerza centrífuga, a las paredes del contenedor.
+        
+        La fórmula de la velocidad crítica es:
+
+        \begin{equation}
+            C_s = \frac{\pi}{2}\sqrt{\frac{g}{R-r}}
+        \end{equation}
+
+        Donde \(g\) es la constante gravitacional, \(R\) es el diámetro interno del molino y \(r\) el diámetro de un trozo de medio de molienda. 
+    \end{tcolorbox}
+\end{frame}
+
+\begin{frame}{Velocidad de molienda}
+    \begin{itemize}
+        \item Los molinos de bolas secos operan en un rango de \qtyrange{50}{70}{\percent} de la \(C_s\);
+        \item normalmente se operan de \qtyrange{60}{65}{\percent};
+        \begin{enumerate}
+            \item a \qty{\le 50}{\percent} \(C_s\) la enrgía es muy poca para \emph{fracturar el polvo;}
+            \item a \qty{\geq 70}{\percent} \(C_s\) el medio comienza a caer en \emph{catarata,} golpenado una sola zona del contenedor.
+        \end{enumerate}
     \end{itemize} 
 \end{frame}
-    
-%Otra edicion
+
+\begin{frame}{Velocidad de molienda | Temperatura del medio}
+    una de las consequencias de moler a \emph{altas velocidades} es que la \emph{temperatura del medio aumenta.}
+    \begin{enumerate}
+            \item En ciertos casos es provechoso:
+            \begin{itemize}
+                \item promover la homogeneidad y/o aleaciones de polvos.
+            \end{itemize}
+            \item O bien, puede ser un problema:
+            \begin{itemize}
+                \item acelera la transformación del proceso, resultando en descomposición de la fase deseada;
+                \item se pueden formar otras fases metaestables indeseadas;
+                \item incrementa el riesgo de contaminación de polvos.
+            \end{itemize}
+        \end{enumerate}
+\end{frame}
 
 \end{document}
