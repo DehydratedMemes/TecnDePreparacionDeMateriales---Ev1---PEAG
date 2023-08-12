@@ -1,4 +1,5 @@
 \babel@toc {spanish}{}\relax 
 \beamer@sectionintoc {1}{Variables del proceso}{2}{0}{1}
 \beamer@subsectionintoc {1}{1}{Tipo de molino}{8}{0}{1}
-\beamer@subsectionintoc {1}{2}{Tipo de molino}{11}{0}{1}
+\beamer@subsectionintoc {1}{2}{Tipo de molino}{12}{0}{1}
+\beamer@subsectionintoc {1}{3}{Tiempo de molienda}{35}{0}{1}

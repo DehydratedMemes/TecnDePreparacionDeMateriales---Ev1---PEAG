@@ -1,14 +1,14 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'TecnDePrepMat - Ev1 - PEAG.blg'
-[84] biber:340> INFO - === Fri Aug 11, 2023, 16:48:15
-[99] Biber.pm:419> INFO - Reading 'TecnDePrepMat - Ev1 - PEAG.bcf'
-[160] Biber.pm:979> INFO - Found 2 citekeys in bib section 0
-[172] Biber.pm:4419> INFO - Processing section 0
-[182] Biber.pm:4610> INFO - Looking for bibtex file 'Bibliografia.bib' for section 0
-[183] bibtex.pm:1713> INFO - LaTeX decoding ...
-[187] bibtex.pm:1519> INFO - Found BibTeX data source 'Bibliografia.bib'
-[228] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[228] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[228] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[231] bbl.pm:660> INFO - Writing 'TecnDePrepMat - Ev1 - PEAG.bbl' with encoding 'UTF-8'
-[233] bbl.pm:763> INFO - Output to TecnDePrepMat - Ev1 - PEAG.bbl
+[155] biber-darwin:340> INFO - === Sat Aug 12, 2023, 16:56:29
+[188] Biber.pm:419> INFO - Reading 'TecnDePrepMat - Ev1 - PEAG.bcf'
+[361] Biber.pm:979> INFO - Found 3 citekeys in bib section 0
+[394] Biber.pm:4419> INFO - Processing section 0
+[419] Biber.pm:4610> INFO - Looking for bibtex file 'Bibliografia.bib' for section 0
+[421] bibtex.pm:1713> INFO - LaTeX decoding ...
+[443] bibtex.pm:1519> INFO - Found BibTeX data source 'Bibliografia.bib'
+[546] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[547] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[547] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[568] bbl.pm:660> INFO - Writing 'TecnDePrepMat - Ev1 - PEAG.bbl' with encoding 'UTF-8'
+[572] bbl.pm:763> INFO - Output to TecnDePrepMat - Ev1 - PEAG.bbl

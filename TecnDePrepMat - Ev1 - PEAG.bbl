@@ -101,6 +101,58 @@
       \field{pages}{801\bibrangedash 804}
       \range{pages}{4}
     \endentry
+    \entry{SURYANARAYANA1995153}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=79c1f06b84952eb718c3ba6062db0641}{%
+           family={Suryanarayana},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{79c1f06b84952eb718c3ba6062db0641}
+      \strng{fullhash}{79c1f06b84952eb718c3ba6062db0641}
+      \strng{bibnamehash}{79c1f06b84952eb718c3ba6062db0641}
+      \strng{authorbibnamehash}{79c1f06b84952eb718c3ba6062db0641}
+      \strng{authornamehash}{79c1f06b84952eb718c3ba6062db0641}
+      \strng{authorfullhash}{79c1f06b84952eb718c3ba6062db0641}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{%
+      An fcc phase has been reported to form in mechanically alloyed
+      titanium-aluminum alloys. This fcc phase forms after an amorphous phase
+      during milling and has been found to be stable up to very high
+      temperatures. Different investigators have interpreted the formation of
+      this fcc phase as (i) a product of crystallization of the amorphous
+      phase, (ii) a supersaturated solid solution of titanium in aluminum,
+      (iii) the disordered form of the γ-TiAl phase, or (iv) a contaminant
+      phase. The present paper analyzes the available results and concludes
+      that this is a contaminant phase, most probably TiN.%
+      }
+      \field{issn}{0966-9795}
+      \field{journaltitle}{Intermetallics}
+      \field{number}{2}
+      \field{title}{Does a disordered γ-TiAl phase exist in mechanically
+      alloyed TiAl powders?}
+      \field{volume}{3}
+      \field{year}{1995}
+      \field{pages}{153\bibrangedash 160}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0966-9795(95)92680-X
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/096697959592680X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/096697959592680X
+      \endverb
+      \keyw{mechanical alloying,titanium aluminides,fcc phase,contamination,supersaturated solid solutions,crystallization}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

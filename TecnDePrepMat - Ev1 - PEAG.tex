@@ -10,10 +10,13 @@
 
 \documentclass[%
 spanish,
-    progressbar=head,
+progressbar=head,
 background=dark,
-subsectionpage
+subsectionpage,
+aspectratio=169
 ]{beamer}
+
+
 
 \usepackage{babel}
 \usepackage{microtype} 
@@ -44,6 +47,10 @@ subsectionpage
 % \setbeameroption{show notes on second screen=right}
 
 \usetheme{metropolis}
+
+\metroset{%
+subsectionpage=progressbar,
+background=dark}
 
 % \usecolortheme{orchid}
 % \title{Técnicas de preparación de materiales}
@@ -236,7 +243,7 @@ subsectionpage
     \begin{figure}{Forma del contendor}
         \centering
         \includegraphics[width=0.85\linewidth]{figuras/efectoXRD.png}
-        \caption{Efecto del uso de un contenedor de fondo plano vs uno de fondo redondo \textit{(Obtenido de \cite{harringa1992effects})}}
+        \caption{Efecto del uso de un contenedor de fondo plano vs uno de fondo redondo \textit{(Obtenido de \cite{harringa1992effects}).}}
     \end{figure}
 \end{frame}
 
@@ -279,7 +286,7 @@ subsectionpage
 \end{frame}
 
 \begin{frame}{Velocidad de molienda | Temperatura del medio}
-    Una de las consequencias de moler a \emph{altas velocidades} es que la \emph{temperatura del medio aumenta.}
+    Una de las consecuencias de moler a \emph{altas velocidades} es que la \emph{temperatura del medio aumenta.}
 
     En ciertos casos es provechoso:
     \begin{itemize}
@@ -299,7 +306,7 @@ subsectionpage
 
 \begin{frame}
     % \transfade
-    En algunas investigaciones, se han reportado \emph{cambios en la morfología} en función de la \emph{velocidad}:\footcite{calka1991}\note{En algunas investigaciones se ha reoprtado que a diferentes velocidades se producen diferentes fases}
+    En algunas investigaciones, se han reportado \emph{cambios en la morfología} en función de la \emph{velocidad}:\footcite{calka1991}\note{En algunas investigaciones se ha reportado que a diferentes velocidades se producen diferentes fases}
     \medskip
     \begin{longtblr}[caption={Relación de la velocidad con las fases obtenidas}]{colspec = {XX}, width = 0.85\linewidth, rowhead = 1}
     \toprule 
@@ -310,6 +317,29 @@ subsectionpage
     \end{longtblr}
 \end{frame}
 
+\subsection{Tiempo de molienda}
+
+\begin{frame}{Tiempo de molienda}
+    \begin{itemize}
+        \item Es el factor más importante;
+        \item el tiempo de molienda depende de:
+            \begin{enumerate}
+                \item tipo de molino;
+                \item intensidad de molienda;
+                \item relación bolas-polvo;
+                \item temperatura de molienda.
+            \end{enumerate}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \begin{itemize}
+        \item<1-> Se debe de limitar el tiempo de \emph{molienda solo al necesario}\footcite{SURYANARAYANA1995153}
+        \item<2-> \alert<2>{A mayor tiempo de molienda, más posibilidad de contaminación.}
+        \item<3-> \alert<3>{Mayor posibilidad de degradar el polvo.}
+    \end{itemize}
+    
+\end{frame}
 
 \begin{frame}[allowframebreaks]{Referencias}
     \small
