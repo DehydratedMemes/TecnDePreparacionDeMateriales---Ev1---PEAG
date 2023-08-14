@@ -1,0 +1,17 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{A}\relax \glsresetentrylist %
+\glossentry{AM}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{5\delimN 6}}}\glsgroupskip
+\glsgroupheading{B}\relax \glsresetentrylist %
+\glossentry{BPR}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{69}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{86\delimR 88}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{90}}}\glsgroupskip
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glossentry{PCA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{104}}}\glsgroupskip
+\glsgroupheading{Y}\relax \glsresetentrylist %
+\glossentry{YSZ}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{77\delimR 85}}}%
+\end{theglossary}\glossarypostamble

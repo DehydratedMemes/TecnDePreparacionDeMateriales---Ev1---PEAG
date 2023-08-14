@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{calka1991}{article}{}
+    \entry{calkaUniversalHighPerformance1991}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=dcd2b6bfdc17a85f6ceff65ab6fb85b0}{%
            family={Calka},
@@ -30,12 +30,9 @@
         {{un=0,uniquepart=base,hash=1f2f97976ca2ed66b976c29a12c7dcb0}{%
            family={Radlinski},
            familyi={R\bibinitperiod},
-           given={AP},
+           given={A.P},
            giveni={A\bibinitperiod},
            givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
       }
       \strng{namehash}{17b2f0e183df1cbd96466c0899bbc681}
       \strng{fullhash}{17b2f0e183df1cbd96466c0899bbc681}
@@ -49,37 +46,270 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{issn}{09215093}
       \field{journaltitle}{Materials Science and Engineering: A}
-      \field{title}{{Universal high performance ball-milling device and its
-      application for mechanical alloying}}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shortjournal}{Materials Science and Engineering: A}
+      \field{title}{Universal High Performance Ball-Milling Device and Its
+      Application for Mechanical Alloying}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
       \field{volume}{134}
       \field{year}{1991}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1350\bibrangedash 1353}
       \range{pages}{4}
+      \verb{doi}
+      \verb 10/dkwp9q
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/092150939190989Z
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/092150939190989Z
+      \endverb
     \endentry
-    \entry{harringa1992effects}{article}{}
+    \entry{calkaSynthesisNitridesMechanical1992}{article}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=acb59919f1a8052e9085ec34b5469c07}{%
+           family={Calka},
+           familyi={C\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod},
+           givenun=2}}%
+        {{un=1,uniquepart=given,hash=a65fd6bed977466a7b7bf7b3004fa6bb}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={J.S.},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{eb45bf5ac5ed95f6d07d5cc0ed65b9ff}
+      \strng{fullhash}{eb45bf5ac5ed95f6d07d5cc0ed65b9ff}
+      \strng{bibnamehash}{eb45bf5ac5ed95f6d07d5cc0ed65b9ff}
+      \strng{authorbibnamehash}{eb45bf5ac5ed95f6d07d5cc0ed65b9ff}
+      \strng{authornamehash}{eb45bf5ac5ed95f6d07d5cc0ed65b9ff}
+      \strng{authorfullhash}{eb45bf5ac5ed95f6d07d5cc0ed65b9ff}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1662-9752}
+      \field{journaltitle}{Materials Science Forum}
+      \field{month}{1}
+      \field{shortjournal}{MSF}
+      \field{title}{Synthesis of {{Nitrides}} by {{Mechanical Alloying}}}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{88--90}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{787\bibrangedash 794}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10/b45vb6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scientific.net/MSF.88-90.787
+      \endverb
+      \verb{url}
+      \verb https://www.scientific.net/MSF.88-90.787
+      \endverb
+    \endentry
+    \entry{chenHydridingReactionsInduced1996}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=426a0c83bf824d0896deb25b742107f7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=7475a4f7331b94fdc90a7fdf65d93114}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{a9219328ab5fcd7741c395dbd42d9780}
+      \strng{fullhash}{a9219328ab5fcd7741c395dbd42d9780}
+      \strng{bibnamehash}{a9219328ab5fcd7741c395dbd42d9780}
+      \strng{authorbibnamehash}{a9219328ab5fcd7741c395dbd42d9780}
+      \strng{authornamehash}{a9219328ab5fcd7741c395dbd42d9780}
+      \strng{authorfullhash}{a9219328ab5fcd7741c395dbd42d9780}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1662-9752}
+      \field{journaltitle}{Materials Science Forum}
+      \field{month}{7}
+      \field{shortjournal}{MSF}
+      \field{title}{Hydriding {{Reactions Induced}} by {{Ball Milling}}}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{225--227}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{881\bibrangedash 888}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10/cnt47h
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scientific.net/MSF.225-227.881
+      \endverb
+      \verb{url}
+      \verb https://www.scientific.net/MSF.225-227.881
+      \endverb
+    \endentry
+    \entry{chinAmorphizationNiSiCTernary1996}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=baf0d5beaa6960a09dad3b428d8f4615}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={Z.-H.},
+           giveni={Z\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9375f1b46dc6aa597df987ba2cf9fde}{%
+           family={Perng},
+           familyi={P\bibinitperiod},
+           given={T.P.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a20894f5507b0cd53f304211a2dc518}
+      \strng{fullhash}{8a20894f5507b0cd53f304211a2dc518}
+      \strng{bibnamehash}{8a20894f5507b0cd53f304211a2dc518}
+      \strng{authorbibnamehash}{8a20894f5507b0cd53f304211a2dc518}
+      \strng{authornamehash}{8a20894f5507b0cd53f304211a2dc518}
+      \strng{authorfullhash}{8a20894f5507b0cd53f304211a2dc518}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1662-9752}
+      \field{journaltitle}{Materials Science Forum}
+      \field{month}{10}
+      \field{shortjournal}{MSF}
+      \field{title}{Amorphization of {{Ni-Si-C Ternary Alloy Powder}} by
+      {{Mechanical Alloying}}}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{235--238}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{121\bibrangedash 126}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10/d44hkv
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scientific.net/MSF.235-238.121
+      \endverb
+      \verb{url}
+      \verb https://www.scientific.net/MSF.235-238.121
+      \endverb
+    \endentry
+    \entry{gerasimovTribochemicalEquilibriumMechanical1991}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4a9ecde599d29e64119b2a9b57141145}{%
+           family={Gerasimov},
+           familyi={G\bibinitperiod},
+           given={K.\bibnamedelimi B.},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d26d4a2f5fa08bca11d6b68e9a95941b}{%
+           family={Gusev},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ca41433dcc46fde7e03840f52a8d94a}{%
+           family={Ivanov},
+           familyi={I\bibinitperiod},
+           given={E.\bibnamedelimi Y.},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=725185077925bc38a202892d37ba1646}{%
+           family={Boldyrev},
+           familyi={B\bibinitperiod},
+           given={V.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{98edf29338ab1ea8ba1fac03c796a6e1}
+      \strng{fullhash}{04d7b2aba91032f1515e31091b9b8c14}
+      \strng{bibnamehash}{98edf29338ab1ea8ba1fac03c796a6e1}
+      \strng{authorbibnamehash}{98edf29338ab1ea8ba1fac03c796a6e1}
+      \strng{authornamehash}{98edf29338ab1ea8ba1fac03c796a6e1}
+      \strng{authorfullhash}{04d7b2aba91032f1515e31091b9b8c14}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-2461, 1573-4803}
+      \field{journaltitle}{Journal of Materials Science}
+      \field{langid}{english}
+      \field{number}{9}
+      \field{shortjournal}{J Mater Sci}
+      \field{title}{Tribochemical Equilibrium in Mechanical Alloying of Metals}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{26}
+      \field{year}{1991}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2495\bibrangedash 2500}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10/bbd7xv
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/BF01130201
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/BF01130201
+      \endverb
+    \endentry
+    \entry{harringaEffectsVialShape1992}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=36c73ce7f160de5ce35df1f423007d63}{%
            family={Harringa},
            familyi={H\bibinitperiod},
-           given={JL},
-           giveni={J\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=1d519327e76c1ea131a9141b64c1fcbf}{%
            family={Cook},
            familyi={C\bibinitperiod},
-           given={BA},
-           giveni={B\bibinitperiod},
+           given={B.\bibnamedelimi A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=e2535c14bb717d1bb47dbe8dc1098cd0}{%
            family={Beaudry},
            familyi={B\bibinitperiod},
-           given={BJ},
-           giveni={B\bibinitperiod},
+           given={B.\bibnamedelimi J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
       }
       \strng{namehash}{23dff546f330bbddf308227c6ed1c0ee}
       \strng{fullhash}{23dff546f330bbddf308227c6ed1c0ee}
@@ -93,15 +323,270 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of materials science}
-      \field{title}{{Effects of vial shape on the rate of mechanical alloying
-      in Si₈₀Ge₂₀}}
+      \field{issn}{0022-2461, 1573-4803}
+      \field{journaltitle}{Journal of Materials Science}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{3}
+      \field{shortjournal}{J Mater Sci}
+      \field{title}{Effects of Vial Shape on the Rate of Mechanical Alloying in
+      {{Si}}₈₀{{Ge}}₂₀}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
       \field{volume}{27}
       \field{year}{1992}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{801\bibrangedash 804}
       \range{pages}{4}
+      \verb{doi}
+      \verb 10/dx2s3p
+      \endverb
+      \verb{file}
+      \verb /Users/pabloalanis/Zotero/storage/64L22QAD/Harringa et al. - 1992 - Effects of vial shape on the rate of mechanical al.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/BF02403899
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/BF02403899
+      \endverb
     \endentry
-    \entry{SURYANARAYANA1995153}{article}{}
+    \entry{hongSteadyStateGrain1994}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f47565c0bbe81c111da43d71997eae07}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={L.B.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07fc18190cdbe8a2b62f8fd8f97e8197}{%
+           family={Bansal},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9ab19d84ef901c3f8abef58f550bbd3}{%
+           family={Fultz},
+           familyi={F\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{70266d1d37b013f5c24327492a866253}
+      \strng{fullhash}{70266d1d37b013f5c24327492a866253}
+      \strng{bibnamehash}{70266d1d37b013f5c24327492a866253}
+      \strng{authorbibnamehash}{70266d1d37b013f5c24327492a866253}
+      \strng{authornamehash}{70266d1d37b013f5c24327492a866253}
+      \strng{authorfullhash}{70266d1d37b013f5c24327492a866253}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09659773}
+      \field{journaltitle}{Nanostructured Materials}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{8}
+      \field{shortjournal}{Nanostructured Materials}
+      \field{title}{%
+      Steady State Grain Size and Thermal Stability of Nanophase {{Ni3Fe}} and
+      {{Fe3X}} ({{X}} = {{Si}}, {{Zn}}, {{Sn}}) Synthesized by Ball Milling at
+      Elevated Temperatures%
+      }
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{4}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{949\bibrangedash 956}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10/bfzw9m
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/0965977394901015
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/0965977394901015
+      \endverb
+    \endentry
+    \entry{kimuraProcessingControlSolid1989}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=9e16bcaabdad20d09b58686f20dbbfb6}{%
+           family={Kimura},
+           familyi={K\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=f50771da0355991f5a099b5169c6b275}{%
+           family={Kimura},
+           familyi={K\bibinitperiod},
+           given={Masayoshi},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{94ebbfe0dddc6208243eeb2425a98c29}
+      \strng{fullhash}{94ebbfe0dddc6208243eeb2425a98c29}
+      \strng{bibnamehash}{94ebbfe0dddc6208243eeb2425a98c29}
+      \strng{authorbibnamehash}{94ebbfe0dddc6208243eeb2425a98c29}
+      \strng{authornamehash}{94ebbfe0dddc6208243eeb2425a98c29}
+      \strng{authorfullhash}{94ebbfe0dddc6208243eeb2425a98c29}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0532-8799, 1880-9014}
+      \field{journaltitle}{Journal of the Japan Society of Powder and Powder
+      Metallurgy}
+      \field{number}{6}
+      \field{shortjournal}{J. Jpn. Soc. Powder Powder Metallurgy}
+      \field{title}{Processing Control for Solid State Amorphization of
+      {{CoZr}} by Reaction Ball Milling.}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{36}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{662\bibrangedash 667}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10/fcxb7n
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstage.jst.go.jp/article/jjspm1947/36/6/36_6_662/_article
+      \endverb
+      \verb{url}
+      \verb http://www.jstage.jst.go.jp/article/jjspm1947/36/6/36_6_662/_article
+      \endverb
+    \endentry
+    \entry{kis-vargaPhaseTransitionsCuSb1996}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c2a35515ea3f91934fea13eeb8370803}{%
+           family={Kis-Varga},
+           familyi={K\bibinithyphendelim V\bibinitperiod},
+           given={Miklos},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec429b4e651f825c18f1f6217b37e4a6}{%
+           family={Beke},
+           familyi={B\bibinitperiod},
+           given={Dezső\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0bfa8e72d63ddb30cc950f5a3c5619b}
+      \strng{fullhash}{a0bfa8e72d63ddb30cc950f5a3c5619b}
+      \strng{bibnamehash}{a0bfa8e72d63ddb30cc950f5a3c5619b}
+      \strng{authorbibnamehash}{a0bfa8e72d63ddb30cc950f5a3c5619b}
+      \strng{authornamehash}{a0bfa8e72d63ddb30cc950f5a3c5619b}
+      \strng{authorfullhash}{a0bfa8e72d63ddb30cc950f5a3c5619b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1662-9752}
+      \field{journaltitle}{Materials Science Forum}
+      \field{month}{7}
+      \field{shortjournal}{MSF}
+      \field{title}{Phase {{Transitions}} in {{Cu-Sb Systems Induced}} by
+      {{Ball Milling}}}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{225--227}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{465\bibrangedash 470}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10/fd6cx6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scientific.net/MSF.225-227.465
+      \endverb
+      \verb{url}
+      \verb https://www.scientific.net/MSF.225-227.465
+      \endverb
+    \endentry
+    \entry{oginoNonequilibriumPhasesFormed1990}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=dbff35549aff220c1e6e4c4f0790f235}{%
+           family={Ogino},
+           familyi={O\bibinitperiod},
+           given={Yoshikiyo},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=227aa174d9d177e8a66781a557128e87}{%
+           family={Yamasaki},
+           familyi={Y\bibinitperiod},
+           given={Tohru},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80c73bec2be724ef089e65fe9157829b}{%
+           family={Murayama},
+           familyi={M\bibinitperiod},
+           given={Shinichiro},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4315ae3b5a18ea28c56dd1acea50a4f}{%
+           family={Sakai},
+           familyi={S\bibinitperiod},
+           given={Ryutaro},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd998286c1cc92bc62c5b7d9217b64c0}
+      \strng{fullhash}{9e07e0ed8a473ddf3882fd05fa85fea8}
+      \strng{bibnamehash}{cd998286c1cc92bc62c5b7d9217b64c0}
+      \strng{authorbibnamehash}{cd998286c1cc92bc62c5b7d9217b64c0}
+      \strng{authornamehash}{cd998286c1cc92bc62c5b7d9217b64c0}
+      \strng{authorfullhash}{9e07e0ed8a473ddf3882fd05fa85fea8}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00223093}
+      \field{journaltitle}{Journal of Non-Crystalline Solids}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{shortjournal}{Journal of Non-Crystalline Solids}
+      \field{title}{Non-Equilibrium Phases Formed by Mechanical Alloying of
+      {{Cr}}–{{Cu}} Alloys}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{117--118}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{737\bibrangedash 740}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10/d92mbn
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/002230939090634X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/002230939090634X
+      \endverb
+    \endentry
+    \entry{suryanarayanaDoesDisorderedGTiAl1995}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=79c1f06b84952eb718c3ba6062db0641}{%
            family={Suryanarayana},
@@ -116,6 +601,120 @@
       \strng{authorbibnamehash}{79c1f06b84952eb718c3ba6062db0641}
       \strng{authornamehash}{79c1f06b84952eb718c3ba6062db0641}
       \strng{authorfullhash}{79c1f06b84952eb718c3ba6062db0641}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09669795}
+      \field{journaltitle}{Intermetallics}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{2}
+      \field{shortjournal}{Intermetallics}
+      \field{title}{Does a Disordered γ-{{TiAl}} Phase Exist in Mechanically
+      Alloyed {{TiAl}} Powders?}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{153\bibrangedash 160}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10/c7z4dp
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/096697959592680X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/096697959592680X
+      \endverb
+    \endentry
+    \entry{suryanarayanaMechanicalAlloyingMilling2004}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=79c1f06b84952eb718c3ba6062db0641}{%
+           family={Suryanarayana},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Marcel Dekker}%
+      }
+      \strng{namehash}{79c1f06b84952eb718c3ba6062db0641}
+      \strng{fullhash}{79c1f06b84952eb718c3ba6062db0641}
+      \strng{bibnamehash}{79c1f06b84952eb718c3ba6062db0641}
+      \strng{authorbibnamehash}{79c1f06b84952eb718c3ba6062db0641}
+      \strng{authornamehash}{79c1f06b84952eb718c3ba6062db0641}
+      \strng{authorfullhash}{79c1f06b84952eb718c3ba6062db0641}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-8247-4103-7}
+      \field{langid}{english}
+      \field{number}{22}
+      \field{pagetotal}{466}
+      \field{series}{Materials Engineering}
+      \field{title}{Mechanical Alloying and Milling}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/pabloalanis/Zotero/storage/2ENXWAXT/Suryanarayana - 2004 - Mechanical alloying and milling.pdf
+      \endverb
+      \keyw{Mechanical alloying}
+    \endentry
+    \entry{suryanarayanaPhaseSelectionMechanically1999}{article}{}
+      \name{author}{5}{ul=1}{%
+        {{un=0,uniquepart=base,hash=79c1f06b84952eb718c3ba6062db0641}{%
+           family={Suryanarayana},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a3703c40071884910a30f1559b591d2}{%
+           family={Ivanov},
+           familyi={I\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d8f32de78654029f04bd87ef59d3f78}{%
+           family={Noufi},
+           familyi={N\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b1b4a6ab5435e165dc8811fdb7887e1}{%
+           family={Contreras},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80c002d7d17bb8d014a885dae83a47ad}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={J.J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c3f829e6cfe2adcad7205a44bf8983d0}
+      \strng{fullhash}{6b8fbfb31c1c322526cc8ad00631237a}
+      \strng{bibnamehash}{c3f829e6cfe2adcad7205a44bf8983d0}
+      \strng{authorbibnamehash}{c3f829e6cfe2adcad7205a44bf8983d0}
+      \strng{authornamehash}{c3f829e6cfe2adcad7205a44bf8983d0}
+      \strng{authorfullhash}{6b8fbfb31c1c322526cc8ad00631237a}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -123,35 +722,46 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{%
-      An fcc phase has been reported to form in mechanically alloyed
-      titanium-aluminum alloys. This fcc phase forms after an amorphous phase
-      during milling and has been found to be stable up to very high
-      temperatures. Different investigators have interpreted the formation of
-      this fcc phase as (i) a product of crystallization of the amorphous
-      phase, (ii) a supersaturated solid solution of titanium in aluminum,
-      (iii) the disordered form of the γ-TiAl phase, or (iv) a contaminant
-      phase. The present paper analyzes the available results and concludes
-      that this is a contaminant phase, most probably TiN.%
+      Formation of a homogeneous nanocrystalline CuIn 0.7 Ga 0.3 Se 2 alloy was
+      achieved by mechanical alloying of blended elemental Cu, In, Ga, and Se
+      powders in a planetary ball mill. X-ray diffraction and transmission
+      electron microscopy and diffraction techniques were employed to follow
+      the structural evolution during milling. It was observed that, depending
+      upon the milling conditions, either a metastable cubic or a stable
+      tetragonal phase was produced. The grain size of the mechanically alloyed
+      powder was about 10 nm. The mechanically alloyed powder was consolidated
+      to full density by hot isostatic pressing the powder at 750 °C and 100
+      MPa for 2 h. Irrespective of the nature of the phase in the starting
+      powder, the hot isostatically pressed compact contained the
+      well-recrystallized tetragonal CuIn 0.7 Ga 0.3 Se 2 phase with a grain
+      size of about 50 nm.%
       }
-      \field{issn}{0966-9795}
-      \field{journaltitle}{Intermetallics}
+      \field{issn}{0884-2914, 2044-5326}
+      \field{journaltitle}{Journal of Materials Research}
+      \field{langid}{english}
+      \field{month}{2}
       \field{number}{2}
-      \field{title}{Does a disordered γ-TiAl phase exist in mechanically
-      alloyed TiAl powders?}
-      \field{volume}{3}
-      \field{year}{1995}
-      \field{pages}{153\bibrangedash 160}
-      \range{pages}{8}
+      \field{shortjournal}{J. Mater. Res.}
+      \field{title}{Phase Selection in a Mechanically Alloyed
+      {{Cu2013}};{{In}}–{{Ga}}–{{Se}} Powder Mixture}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{volume}{14}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{377\bibrangedash 383}
+      \range{pages}{7}
       \verb{doi}
-      \verb https://doi.org/10.1016/0966-9795(95)92680-X
+      \verb 10/c7wjcq
       \endverb
       \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/096697959592680X
+      \verb http://link.springer.com/10.1557/JMR.1999.0055
       \endverb
       \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/096697959592680X
+      \verb http://link.springer.com/10.1557/JMR.1999.0055
       \endverb
-      \keyw{mechanical alloying,titanium aluminides,fcc phase,contamination,supersaturated solid solutions,crystallization}
     \endentry
   \enddatalist
 \endrefsection

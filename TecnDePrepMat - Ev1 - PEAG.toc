@@ -1,5 +1,13 @@
 \babel@toc {spanish}{}\relax 
-\beamer@sectionintoc {1}{Variables del proceso}{2}{0}{1}
-\beamer@subsectionintoc {1}{1}{Tipo de molino}{8}{0}{1}
-\beamer@subsectionintoc {1}{2}{Tipo de molino}{12}{0}{1}
-\beamer@subsectionintoc {1}{3}{Tiempo de molienda}{35}{0}{1}
+\beamer@sectionintoc {1}{Variables del proceso de molienda}{4}{0}{1}
+\beamer@subsectionintoc {1}{1}{Tipos de molinos}{23}{0}{1}
+\beamer@subsectionintoc {1}{2}{Contenedor del molino}{32}{0}{1}
+\beamer@subsectionintoc {1}{3}{Forma del contenedor}{49}{0}{1}
+\beamer@subsectionintoc {1}{4}{Velocidad/intensidad de molienda}{54}{0}{1}
+\beamer@subsectionintoc {1}{5}{Tiempo de molienda}{68}{0}{1}
+\beamer@subsectionintoc {1}{6}{Medio de molienda}{74}{0}{1}
+\beamer@subsectionintoc {1}{7}{Relación de bolas-polvo (BPR)}{89}{0}{1}
+\beamer@subsectionintoc {1}{8}{Grado de llenado del vial}{95}{0}{1}
+\beamer@subsectionintoc {1}{9}{Atmósfera de molienda}{97}{0}{1}
+\beamer@subsectionintoc {1}{10}{Agentes de control del proceso (PCA)}{102}{0}{1}
+\beamer@subsectionintoc {1}{11}{Temperatura}{105}{0}{1}

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex-dev 2023.8.10)  12 AUG 2023 16:56
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex-dev 2023.8.10)  13 AUG 2023 20:43
  system commands enabled.
 **"TecnDePrepMat - Ev1 - PEAG.tex"
 ("./TecnDePrepMat - Ev1 - PEAG.tex"
@@ -1138,73 +1138,209 @@ Package: multimedia 2012/05/02 ver 0.02
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 )
 \mm@movie=\count417
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2022/11/03 v4.52 (NLCT)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks53
+\XKV@tempa@toks=\toks54
+)
+\XKV@depth=\count418
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
+\@glsmfirst=\toks55
+\@glsmrest=\toks56
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count419
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count420
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count421
+\FP@xia=\count422
+\FP@xib=\count423
+\FP@xfa=\count424
+\FP@xfb=\count425
+\FP@rega=\count426
+\FP@regb=\count427
+\FP@regs=\count428
+\FP@times=\count429
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count430
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks57
+\@dtl@tmpcount=\count431
+\dtl@tmplength=\skip75
+\dtl@sortresult=\count432
+\@dtl@numgrpsepcount=\count433
+\@dtl@datatype=\count434
+\dtl@codeA=\count435
+\dtl@codeB=\count436
+\@dtl@foreach@level=\count437
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tracklang/tracklang.sty
+Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/tracklang/tracklang.tex)) (/usr/local/texlive/2023/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish.ldf
+File: glossaries-spanish.ldf 2014/11/23 v1.0
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish-noenc.ldf))
+\gls@level=\count438
+\@gls@tmpb=\toks58
+\gls@tmplen=\skip76
+\glskeylisttok=\toks59
+\glslabeltok=\toks60
+\glsshorttok=\toks61
+\glslongtok=\toks62
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty
+Package: glossary-hypernav 2022/11/03 v4.52 (NLCT)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+Package: glossary-list 2022/11/03 v4.52 (NLCT)
+\glslistdottedwidth=\skip77
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+Package: glossary-long 2022/11/03 v4.52 (NLCT)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip78
+\LTright=\skip79
+\LTpre=\skip80
+\LTpost=\skip81
+\LTchunksize=\count439
+\LTcapwidth=\dimen408
+\LT@head=\box128
+\LT@firsthead=\box129
+\LT@foot=\box130
+\LT@lastfoot=\box131
+\LT@gbox=\box132
+\LT@cols=\count440
+\LT@rows=\count441
+\c@LT@tables=\count442
+\c@LT@chunks=\count443
+\LT@p@ftn=\toks63
+)
+\glsdescwidth=\skip82
+\glspagelistwidth=\skip83
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+Package: glossary-super 2022/11/03 v4.52 (NLCT)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count444
+\ST@wd=\dimen409
+\ST@rightskip=\skip84
+\ST@leftskip=\skip85
+\ST@parfillskip=\skip86
+\ST@pageleft=\dimen410
+\ST@headht=\dimen411
+\ST@tailht=\dimen412
+\ST@pagesofar=\dimen413
+\ST@pboxht=\dimen414
+\ST@lineht=\dimen415
+\ST@prevht=\dimen416
+\ST@toadd=\dimen417
+\ST@dimen=\dimen418
+\ST@pbox=\box133
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+Package: glossary-tree 2022/11/03 v4.52 (NLCT)
+\glstreeindent=\skip87
+))
+\glswrite=\write6
+\glo@main@file=\write7
+
+\openout7 = TecnDePrepMat - Ev1 - PEAG.glo
+Package glossaries Info: Writing glossary file "TecnDePrepMat - Ev1 - PEAG".glo on input line 29.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count418
+\lrq@indent=\count445
  (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count419
-\c@listtotal=\count420
-\c@listcount=\count421
-\c@liststart=\count422
-\c@liststop=\count423
-\c@citecount=\count424
-\c@citetotal=\count425
-\c@multicitecount=\count426
-\c@multicitetotal=\count427
-\c@instcount=\count428
-\c@maxnames=\count429
-\c@minnames=\count430
-\c@maxitems=\count431
-\c@minitems=\count432
-\c@citecounter=\count433
-\c@maxcitecounter=\count434
-\c@savedcitecounter=\count435
-\c@uniquelist=\count436
-\c@uniquename=\count437
-\c@refsection=\count438
-\c@refsegment=\count439
-\c@maxextratitle=\count440
-\c@maxextratitleyear=\count441
-\c@maxextraname=\count442
-\c@maxextradate=\count443
-\c@maxextraalpha=\count444
-\c@abbrvpenalty=\count445
-\c@highnamepenalty=\count446
-\c@lownamepenalty=\count447
-\c@maxparens=\count448
-\c@parenlevel=\count449
-\blx@tempcnta=\count450
-\blx@tempcntb=\count451
-\blx@tempcntc=\count452
-\c@blx@maxsection=\count453
-\blx@maxsegment@0=\count454
-\blx@notetype=\count455
-\blx@parenlevel@text=\count456
-\blx@parenlevel@foot=\count457
-\blx@sectionciteorder@0=\count458
-\blx@sectionciteorderinternal@0=\count459
-\blx@entrysetcounter=\count460
-\blx@biblioinstance=\count461
-\labelnumberwidth=\skip75
-\labelalphawidth=\skip76
-\biblabelsep=\skip77
-\bibitemsep=\skip78
-\bibnamesep=\skip79
-\bibinitsep=\skip80
-\bibparsep=\skip81
-\bibhang=\skip82
+))
+\c@tabx@nest=\count446
+\c@listtotal=\count447
+\c@listcount=\count448
+\c@liststart=\count449
+\c@liststop=\count450
+\c@citecount=\count451
+\c@citetotal=\count452
+\c@multicitecount=\count453
+\c@multicitetotal=\count454
+\c@instcount=\count455
+\c@maxnames=\count456
+\c@minnames=\count457
+\c@maxitems=\count458
+\c@minitems=\count459
+\c@citecounter=\count460
+\c@maxcitecounter=\count461
+\c@savedcitecounter=\count462
+\c@uniquelist=\count463
+\c@uniquename=\count464
+\c@refsection=\count465
+\c@refsegment=\count466
+\c@maxextratitle=\count467
+\c@maxextratitleyear=\count468
+\c@maxextraname=\count469
+\c@maxextradate=\count470
+\c@maxextraalpha=\count471
+\c@abbrvpenalty=\count472
+\c@highnamepenalty=\count473
+\c@lownamepenalty=\count474
+\c@maxparens=\count475
+\c@parenlevel=\count476
+\blx@tempcnta=\count477
+\blx@tempcntb=\count478
+\blx@tempcntc=\count479
+\c@blx@maxsection=\count480
+\blx@maxsegment@0=\count481
+\blx@notetype=\count482
+\blx@parenlevel@text=\count483
+\blx@parenlevel@foot=\count484
+\blx@sectionciteorder@0=\count485
+\blx@sectionciteorderinternal@0=\count486
+\blx@entrysetcounter=\count487
+\blx@biblioinstance=\count488
+\labelnumberwidth=\skip88
+\labelalphawidth=\skip89
+\biblabelsep=\skip90
+\bibitemsep=\skip91
+\bibnamesep=\skip92
+\bibinitsep=\skip93
+\bibparsep=\skip94
+\bibhang=\skip95
 \blx@bcfin=\read4
-\blx@bcfout=\write6
+\blx@bcfout=\write8
 \blx@langwohyphens=\language89
-\c@mincomprange=\count462
-\c@maxcomprange=\count463
-\c@mincompwidth=\count464
+\c@mincomprange=\count489
+\c@maxcomprange=\count490
+\c@mincompwidth=\count491
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -1214,88 +1350,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count465
-\c@savedafterword=\count466
-\c@annotator=\count467
-\c@savedannotator=\count468
-\c@author=\count469
-\c@savedauthor=\count470
-\c@bookauthor=\count471
-\c@savedbookauthor=\count472
-\c@commentator=\count473
-\c@savedcommentator=\count474
-\c@editor=\count475
-\c@savededitor=\count476
-\c@editora=\count477
-\c@savededitora=\count478
-\c@editorb=\count479
-\c@savededitorb=\count480
-\c@editorc=\count481
-\c@savededitorc=\count482
-\c@foreword=\count483
-\c@savedforeword=\count484
-\c@holder=\count485
-\c@savedholder=\count486
-\c@introduction=\count487
-\c@savedintroduction=\count488
-\c@namea=\count489
-\c@savednamea=\count490
-\c@nameb=\count491
-\c@savednameb=\count492
-\c@namec=\count493
-\c@savednamec=\count494
-\c@translator=\count495
-\c@savedtranslator=\count496
-\c@shortauthor=\count497
-\c@savedshortauthor=\count498
-\c@shorteditor=\count499
-\c@savedshorteditor=\count500
-\c@labelname=\count501
-\c@savedlabelname=\count502
-\c@institution=\count503
-\c@savedinstitution=\count504
-\c@lista=\count505
-\c@savedlista=\count506
-\c@listb=\count507
-\c@savedlistb=\count508
-\c@listc=\count509
-\c@savedlistc=\count510
-\c@listd=\count511
-\c@savedlistd=\count512
-\c@liste=\count513
-\c@savedliste=\count514
-\c@listf=\count515
-\c@savedlistf=\count516
-\c@location=\count517
-\c@savedlocation=\count518
-\c@organization=\count519
-\c@savedorganization=\count520
-\c@origlocation=\count521
-\c@savedoriglocation=\count522
-\c@origpublisher=\count523
-\c@savedorigpublisher=\count524
-\c@publisher=\count525
-\c@savedpublisher=\count526
-\c@language=\count527
-\c@savedlanguage=\count528
-\c@origlanguage=\count529
-\c@savedoriglanguage=\count530
-\c@pageref=\count531
-\c@savedpageref=\count532
-\shorthandwidth=\skip83
-\shortjournalwidth=\skip84
-\shortserieswidth=\skip85
-\shorttitlewidth=\skip86
-\shortauthorwidth=\skip87
-\shorteditorwidth=\skip88
-\locallabelnumberwidth=\skip89
-\locallabelalphawidth=\skip90
-\localshorthandwidth=\skip91
-\localshortjournalwidth=\skip92
-\localshortserieswidth=\skip93
-\localshorttitlewidth=\skip94
-\localshortauthorwidth=\skip95
-\localshorteditorwidth=\skip96
+\c@afterword=\count492
+\c@savedafterword=\count493
+\c@annotator=\count494
+\c@savedannotator=\count495
+\c@author=\count496
+\c@savedauthor=\count497
+\c@bookauthor=\count498
+\c@savedbookauthor=\count499
+\c@commentator=\count500
+\c@savedcommentator=\count501
+\c@editor=\count502
+\c@savededitor=\count503
+\c@editora=\count504
+\c@savededitora=\count505
+\c@editorb=\count506
+\c@savededitorb=\count507
+\c@editorc=\count508
+\c@savededitorc=\count509
+\c@foreword=\count510
+\c@savedforeword=\count511
+\c@holder=\count512
+\c@savedholder=\count513
+\c@introduction=\count514
+\c@savedintroduction=\count515
+\c@namea=\count516
+\c@savednamea=\count517
+\c@nameb=\count518
+\c@savednameb=\count519
+\c@namec=\count520
+\c@savednamec=\count521
+\c@translator=\count522
+\c@savedtranslator=\count523
+\c@shortauthor=\count524
+\c@savedshortauthor=\count525
+\c@shorteditor=\count526
+\c@savedshorteditor=\count527
+\c@labelname=\count528
+\c@savedlabelname=\count529
+\c@institution=\count530
+\c@savedinstitution=\count531
+\c@lista=\count532
+\c@savedlista=\count533
+\c@listb=\count534
+\c@savedlistb=\count535
+\c@listc=\count536
+\c@savedlistc=\count537
+\c@listd=\count538
+\c@savedlistd=\count539
+\c@liste=\count540
+\c@savedliste=\count541
+\c@listf=\count542
+\c@savedlistf=\count543
+\c@location=\count544
+\c@savedlocation=\count545
+\c@organization=\count546
+\c@savedorganization=\count547
+\c@origlocation=\count548
+\c@savedoriglocation=\count549
+\c@origpublisher=\count550
+\c@savedorigpublisher=\count551
+\c@publisher=\count552
+\c@savedpublisher=\count553
+\c@language=\count554
+\c@savedlanguage=\count555
+\c@origlanguage=\count556
+\c@savedoriglanguage=\count557
+\c@pageref=\count558
+\c@savedpageref=\count559
+\shorthandwidth=\skip96
+\shortjournalwidth=\skip97
+\shortserieswidth=\skip98
+\shorttitlewidth=\skip99
+\shortauthorwidth=\skip100
+\shorteditorwidth=\skip101
+\locallabelnumberwidth=\skip102
+\locallabelalphawidth=\skip103
+\localshorthandwidth=\skip104
+\localshortjournalwidth=\skip105
+\localshortserieswidth=\skip106
+\localshorttitlewidth=\skip107
+\localshortauthorwidth=\skip108
+\localshorteditorwidth=\skip109
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-unicode.def)
@@ -1308,19 +1444,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count533
-\c@textcitetotal=\count534
-\c@textcitemaxnames=\count535
-\c@biburlbigbreakpenalty=\count536
-\c@biburlbreakpenalty=\count537
-\c@biburlnumpenalty=\count538
-\c@biburlucpenalty=\count539
-\c@biburllcpenalty=\count540
+\c@textcitecount=\count560
+\c@textcitetotal=\count561
+\c@textcitemaxnames=\count562
+\c@biburlbigbreakpenalty=\count563
+\c@biburlbreakpenalty=\count564
+\c@biburlnumpenalty=\count565
+\c@biburlucpenalty=\count566
+\c@biburllcpenalty=\count567
 \biburlbigskip=\muskip21
 \biburlnumskip=\muskip22
 \biburlucskip=\muskip23
 \biburllcskip=\muskip24
-\c@smartand=\count541
+\c@smartand=\count568
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
@@ -1330,8 +1466,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count542
-\c@bbx:relatedtotal=\count543
+\c@bbx:relatedcount=\count569
+\c@bbx:relatedtotal=\count570
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -1363,25 +1499,25 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 Package: tcolorbox 2023/02/12 version 6.0.1 text color boxes
  (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks53
-\verbatim@line=\toks54
+\every@verbatim=\toks64
+\verbatim@line=\toks65
 \verbatim@in@stream=\read5
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
  (/usr/local/texlive/2023/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-\tcb@titlebox=\box128
-\tcb@upperbox=\box129
-\tcb@lowerbox=\box130
-\tcb@phantombox=\box131
-\c@tcbbreakpart=\count544
-\c@tcblayer=\count545
-\c@tcolorbox@number=\count546
-\tcb@temp=\box132
-\tcb@temp=\box133
-\tcb@temp=\box134
-\tcb@temp=\box135
+\tcb@titlebox=\box134
+\tcb@upperbox=\box135
+\tcb@lowerbox=\box136
+\tcb@phantombox=\box137
+\c@tcbbreakpart=\count571
+\c@tcblayer=\count572
+\c@tcolorbox@number=\count573
+\tcb@temp=\box138
+\tcb@temp=\box139
+\tcb@temp=\box140
+\tcb@temp=\box141
  (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '6.0.1'
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
@@ -1390,39 +1526,39 @@ Package: tikzfill.image 2022/07/20 v1.0.0 Image filling library for TikZ
 Package: tikzfill-common 2022/07/20 v1.0.0 Auxiliary code for tikzfill
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
 File: tikzlibraryfill.image.code.tex 2022/07/20 v1.0.0 Image filling library
-\l__tikzfill_img_box=\box136
+\l__tikzfill_img_box=\box142
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.0.1'
 ))) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
 Package: pgfpages 2011/01/05 ver 0.02
-\pgf@logicalpages=\count547
-\pgf@firstshipout=\count548
-\pgf@lastshipout=\count549
-\pgf@currentshipout=\count550
-\pgf@cpn=\count551
-\pgf@shipoutnextto=\count552
-\pgfphysicalheight=\dimen408
-\pgfphysicalwidth=\dimen409
-\pgfpages@shipoutbox=\box137
+\pgf@logicalpages=\count574
+\pgf@firstshipout=\count575
+\pgf@lastshipout=\count576
+\pgf@currentshipout=\count577
+\pgf@cpn=\count578
+\pgf@shipoutnextto=\count579
+\pgfphysicalheight=\dimen419
+\pgfphysicalwidth=\dimen420
+\pgfpages@shipoutbox=\box143
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty
 Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
  (/usr/local/texlive/2023/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks55
-\pgfopts@list@add@b@toks=\toks56
+\pgfopts@list@add@a@toks=\toks66
+\pgfopts@list@add@b@toks=\toks67
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerinnerthememetropolis.sty
 Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
-\metropolis@titleseparator@linewidth=\skip97
-\metropolis@progressonsectionpage=\skip98
-\metropolis@progressonsectionpage@linewidth=\skip99
-\metropolis@blocksep=\skip100
-\metropolis@blockadjust=\skip101
-\metropolis@parskip=\skip102
+\metropolis@titleseparator@linewidth=\skip110
+\metropolis@progressonsectionpage=\skip111
+\metropolis@progressonsectionpage@linewidth=\skip112
+\metropolis@blocksep=\skip113
+\metropolis@blockadjust=\skip114
+\metropolis@parskip=\skip115
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerouterthememetropolis.sty
 Package: beamerouterthememetropolis 2017/01/23 Metropolis outer theme
-\metropolis@frametitle@padding=\skip103
-\metropolis@progressinheadfoot=\skip104
-\metropolis@progressinheadfoot@linewidth=\skip105
+\metropolis@frametitle@padding=\skip116
+\metropolis@progressinheadfoot=\skip117
+\metropolis@progressinheadfoot@linewidth=\skip118
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthememetropolis.sty
 Package: beamercolorthememetropolis 2017/01/23 Metropolis color theme
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamertheme-metropolis/beamerfontthememetropolis.sty
@@ -1435,24 +1571,24 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count553
-\l__fontspec_language_int=\count554
-\l__fontspec_strnum_int=\count555
-\l__fontspec_tmp_int=\count556
-\l__fontspec_tmpa_int=\count557
-\l__fontspec_tmpb_int=\count558
-\l__fontspec_tmpc_int=\count559
-\l__fontspec_em_int=\count560
-\l__fontspec_emdef_int=\count561
-\l__fontspec_strong_int=\count562
-\l__fontspec_strongdef_int=\count563
-\l__fontspec_tmpa_dim=\dimen410
-\l__fontspec_tmpb_dim=\dimen411
-\l__fontspec_tmpc_dim=\dimen412
+\l__fontspec_script_int=\count580
+\l__fontspec_language_int=\count581
+\l__fontspec_strnum_int=\count582
+\l__fontspec_tmp_int=\count583
+\l__fontspec_tmpa_int=\count584
+\l__fontspec_tmpb_int=\count585
+\l__fontspec_tmpc_int=\count586
+\l__fontspec_em_int=\count587
+\l__fontspec_emdef_int=\count588
+\l__fontspec_strong_int=\count589
+\l__fontspec_strongdef_int=\count590
+\l__fontspec_tmpa_dim=\dimen421
+\l__fontspec_tmpb_dim=\dimen422
+\l__fontspec_tmpc_dim=\dimen423
  (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-\c@fontsnotfound=\count564
+\c@fontsnotfound=\count591
 luaotfload | cache : Lookup cache loaded from /Users/pabloalanis/Library/texlive/2023/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
 Package fontspec Info: Font family 'FiraSansLight(0)' created for font 'Fira
@@ -1531,117 +1667,117 @@ Package fontspec Info: Font family 'FiraMono(0)' created for font 'Fira Mono'
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
-)) (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty
+)) (./abbrev.tex) (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count565
+\BKM@id=\count592
 ))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count566
-\@quotereset=\count567
+\@quotelevel=\count593
+\@quotereset=\count594
 
 Package chemmacros Info: You haven't chosen a formula method so I'm assuming
 (chemmacros)             the default method `chemformula'.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/chemformula/chemformula.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/units/nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip106
-\L@UnitsRaiseTextstyle=\skip107
-\L@UnitsRaiseScriptstyle=\skip108
+\L@UnitsRaiseDisplaystyle=\skip119
+\L@UnitsRaiseTextstyle=\skip120
+\L@UnitsRaiseScriptstyle=\skip121
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen413
-\pgfarrowlength=\dimen414
-\pgfarrowwidth=\dimen415
-\pgfarrowlinewidth=\dimen416
+\pgfarrowinset=\dimen424
+\pgfarrowlength=\dimen425
+\pgfarrowwidth=\dimen426
+\pgfarrowlinewidth=\dimen427
 )
 Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions (CN)
-\l__chemformula_tmpa_dim=\dimen417
-\l__chemformula_tmpb_dim=\dimen418
-\l__chemformula_tmpc_dim=\dimen419
-\l__chemformula_tmpa_int=\count568
-\l__chemformula_tmpb_int=\count569
-\l__chemformula_tmpc_int=\count570
-\l__chemformula_tmpa_box=\box138
-\l__chemformula_tmpb_box=\box139
-\l__chemformula_arrow_length_dim=\dimen420
-\l__chemformula_arrow_label_height_dim=\dimen421
-\l__chemformula_arrow_label_offset_dim=\dimen422
-\l__chemformula_arrow_minimum_length_dim=\dimen423
-\l__chemformula_arrow_shortage_dim=\dimen424
-\l__chemformula_arrow_offset_dim=\dimen425
-\l__chemformula_arrow_yshift_dim=\dimen426
-\l__chemformula_radical_radius_dim=\dimen427
-\l__chemformula_radical_hshift_dim=\dimen428
-\l__chemformula_radical_vshift_dim=\dimen429
-\l__chemformula_radical_space_dim=\dimen430
-\l__chemformula_arrow_head_dim=\dimen431
-\l__chemformula_name_dim=\dimen432
-\l__chemformula_adduct_space_dim=\dimen433
-\l__chemformula_charge_shift_dim=\dimen434
-\l__chemformula_subscript_shift_dim=\dimen435
-\l__chemformula_superscript_shift_dim=\dimen436
-\l__chemformula_subscript_dim=\dimen437
-\l__chemformula_superscript_dim=\dimen438
-\l__chemformula_bond_dim=\dimen439
-\l__chemformula_bond_space_dim=\dimen440
-\l__chemformula_elspec_pair_distance_dim=\dimen441
-\l__chemformula_elspec_pair_line_length_dim=\dimen442
-\l__chemformula_elspec_pair_width_dim=\dimen443
-\l__chemformula_kroegervink_positive_radius_dim=\dimen444
-\l__chemformula_kroegervink_positive_hshift_dim=\dimen445
-\l__chemformula_kroegervink_positive_vshift_dim=\dimen446
-\l__chemformula_kroegervink_positive_space_dim=\dimen447
-\l__chemformula_stoich_space_skip=\skip109
-\l__chemformula_math_space_skip=\skip110
-\l__chemformula_additions_symbol_space_skip=\skip111
-\l__chemformula_count_tokens_int=\count571
-\g__chemformula_lewis_int=\count572
-\l__chemformula_arrow_arg_i_box=\box140
-\l__chemformula_arrow_arg_ii_box=\box141
-\l__chemformula_superscript_box=\box142
-\l__chemformula_subscript_box=\box143
-\l__chemformula_plus_space_skip=\skip112
-\l__chemformula_minus_space_skip=\skip113
+\l__chemformula_tmpa_dim=\dimen428
+\l__chemformula_tmpb_dim=\dimen429
+\l__chemformula_tmpc_dim=\dimen430
+\l__chemformula_tmpa_int=\count595
+\l__chemformula_tmpb_int=\count596
+\l__chemformula_tmpc_int=\count597
+\l__chemformula_tmpa_box=\box144
+\l__chemformula_tmpb_box=\box145
+\l__chemformula_arrow_length_dim=\dimen431
+\l__chemformula_arrow_label_height_dim=\dimen432
+\l__chemformula_arrow_label_offset_dim=\dimen433
+\l__chemformula_arrow_minimum_length_dim=\dimen434
+\l__chemformula_arrow_shortage_dim=\dimen435
+\l__chemformula_arrow_offset_dim=\dimen436
+\l__chemformula_arrow_yshift_dim=\dimen437
+\l__chemformula_radical_radius_dim=\dimen438
+\l__chemformula_radical_hshift_dim=\dimen439
+\l__chemformula_radical_vshift_dim=\dimen440
+\l__chemformula_radical_space_dim=\dimen441
+\l__chemformula_arrow_head_dim=\dimen442
+\l__chemformula_name_dim=\dimen443
+\l__chemformula_adduct_space_dim=\dimen444
+\l__chemformula_charge_shift_dim=\dimen445
+\l__chemformula_subscript_shift_dim=\dimen446
+\l__chemformula_superscript_shift_dim=\dimen447
+\l__chemformula_subscript_dim=\dimen448
+\l__chemformula_superscript_dim=\dimen449
+\l__chemformula_bond_dim=\dimen450
+\l__chemformula_bond_space_dim=\dimen451
+\l__chemformula_elspec_pair_distance_dim=\dimen452
+\l__chemformula_elspec_pair_line_length_dim=\dimen453
+\l__chemformula_elspec_pair_width_dim=\dimen454
+\l__chemformula_kroegervink_positive_radius_dim=\dimen455
+\l__chemformula_kroegervink_positive_hshift_dim=\dimen456
+\l__chemformula_kroegervink_positive_vshift_dim=\dimen457
+\l__chemformula_kroegervink_positive_space_dim=\dimen458
+\l__chemformula_stoich_space_skip=\skip122
+\l__chemformula_math_space_skip=\skip123
+\l__chemformula_additions_symbol_space_skip=\skip124
+\l__chemformula_count_tokens_int=\count598
+\g__chemformula_lewis_int=\count599
+\l__chemformula_arrow_arg_i_box=\box146
+\l__chemformula_arrow_arg_ii_box=\box147
+\l__chemformula_superscript_box=\box148
+\l__chemformula_subscript_box=\box149
+\l__chemformula_plus_space_skip=\skip125
+\l__chemformula_minus_space_skip=\skip126
 )
 
 Package chemmacros Info: Using float defining method `traditional'.
 
-\c@scheme=\count573
+\c@scheme=\count600
  ("./TecnDePrepMat - Ev1 - PEAG.aux"
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
 )
 \openout1 = TecnDePrepMat - Ev1 - PEAG.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 60.
  (/usr/local/texlive/2023/texmf-dist/tex/latex-dev/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1679,79 +1815,79 @@ LaTeX Font Info:    ... okay on input line 62.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count574
-\scratchdimen=\dimen448
-\scratchbox=\box144
-\nofMPsegments=\count575
-\nofMParguments=\count576
-\everyMPshowfont=\toks57
-\MPscratchCnt=\count577
-\MPscratchDim=\dimen449
-\MPnumerator=\count578
-\makeMPintoPDFobject=\count579
-\everyMPtoPDFconversion=\toks58
+\scratchcounter=\count601
+\scratchdimen=\dimen459
+\scratchbox=\box150
+\nofMPsegments=\count602
+\nofMParguments=\count603
+\everyMPshowfont=\toks68
+\MPscratchCnt=\count604
+\MPscratchDim=\dimen460
+\MPnumerator=\count605
+\makeMPintoPDFobject=\count606
+\everyMPtoPDFconversion=\toks69
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 62.
+Package hyperref Info: Link coloring OFF on input line 60.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 62.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 62.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 60.
 \symnumbers=\mathgroup11
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 62.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 60.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 62.
+(Font)              `pureletters' in the math version `normal' on input line 60.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/mathkerncmss/m/sl --> TU/FiraSansLight(0)/m/it on input line 62.
+(Font)                  OT1/mathkerncmss/m/sl --> TU/FiraSansLight(0)/m/it on input line 60.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 62.
+(Font)              `pureletters' in the math version `bold' on input line 60.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/bx/sl --> TU/FiraSansLight(0)/m/it on input line 62.
+(Font)                  OT1/mathkerncmss/bx/sl --> TU/FiraSansLight(0)/m/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmr/m/n on input line 62.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 62.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 62.
+(Font)                  OT1/cmss/m/n --> TU/lmr/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/FiraSansLight(0)/m/n on input line 62.
+(Font)                  OT1/cmss/m/n --> TU/FiraSansLight(0)/m/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/FiraSansLight(0)/m/n on input line 62.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 62.
+(Font)                  OT1/cmss/bx/n --> TU/FiraSansLight(0)/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/FiraSansLight(0)/m/it on input line 62.
+(Font)                  OT1/cmr/m/it --> TU/FiraSansLight(0)/m/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/FiraSansLight(0)/m/it on input line 62.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 62.
+(Font)                  OT1/cmr/bx/it --> TU/FiraSansLight(0)/m/it on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 62.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 62.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/b/n on input line 62.
+(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/b/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/FiraSansLight(0)/m/it --> TU/FiraSansLight(0)/b/it on input line 62.
+(Font)                  TU/FiraSansLight(0)/m/it --> TU/FiraSansLight(0)/b/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> TU/lmr/b/n on input line 62.
+(Font)                  OT1/cmss/b/n --> TU/lmr/b/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/FiraSansLight(0)/b/n --> TU/FiraSansLight(0)/b/n on input line 62.
+(Font)                  TU/FiraSansLight(0)/b/n --> TU/FiraSansLight(0)/b/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/b/n on input line 62.
+(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/b/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/FiraSansLight(0)/m/it --> TU/FiraSansLight(0)/b/it on input line 62.
+(Font)                  TU/FiraSansLight(0)/m/it --> TU/FiraSansLight(0)/b/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/FiraMono(0)/m/n --> TU/FiraMono(0)/b/n on input line 62.
-LaTeX Font Info:    Redeclaring symbol font `boldpureletters' on input line 62.
+(Font)                  TU/FiraMono(0)/m/n --> TU/FiraMono(0)/b/n on input line 60.
+LaTeX Font Info:    Redeclaring symbol font `boldpureletters' on input line 60.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `boldpureletters' in the math version `normal' on input line 62.
+(Font)              `boldpureletters' in the math version `normal' on input line 60.
 LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `normal'
-(Font)                  OT1/mathkerncmss/bx/sl --> TU/FiraSansLight(0)/bx/it on input line 62.
+(Font)                  OT1/mathkerncmss/bx/sl --> TU/FiraSansLight(0)/bx/it on input line 60.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `boldpureletters' in the math version `bold' on input line 62.
+(Font)              `boldpureletters' in the math version `bold' on input line 60.
 LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/bx/sl --> TU/FiraSansLight(0)/bx/it on input line 62.
+(Font)                  OT1/mathkerncmss/bx/sl --> TU/FiraSansLight(0)/bx/it on input line 60.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-Spanish.dict
@@ -1777,21 +1913,21 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-Spanish.dict
 Dictionary: translator-theorem-dictionary, Language: Spanish 
 )
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
-LaTeX Info: Redefining \microtypecontext on input line 62.
-Package microtype Info: Applying patch `item' on input line 62.
-Package microtype Info: Applying patch `toc' on input line 62.
-Package microtype Info: Applying patch `eqnum' on input line 62.
-Package microtype Info: Applying patch `footnote' on input line 62.
-Package microtype Info: Applying patch `verbatim' on input line 62.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+LaTeX Info: Redefining \microtypecontext on input line 60.
+Package microtype Info: Applying patch `item' on input line 60.
+Package microtype Info: Applying patch `toc' on input line 60.
+Package microtype Info: Applying patch `eqnum' on input line 60.
+Package microtype Info: Applying patch `footnote' on input line 60.
+Package microtype Info: Applying patch `verbatim' on input line 60.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 62.
+LaTeX Info: Redefining \showhyphens on input line 60.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -1804,9 +1940,9 @@ Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-spanish.trsl
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 62.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 60.
 
-Package chemgreek Info: Activating mapping `fontspec' on line 62.
+Package chemgreek Info: Activating mapping `fontspec' on line 60.
 
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
@@ -1818,31 +1954,42 @@ Package biblatex Info: LuaTeX detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 
-\openout6 = TecnDePrepMat - Ev1 - PEAG.bcf
+\openout8 = TecnDePrepMat - Ev1 - PEAG.bcf
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"TecnDePrepMat - Ev1 - PEAG".bbl' found.
  ("./TecnDePrepMat - Ev1 - PEAG.bbl")
-Package biblatex Info: Reference section=0 on input line 62.
-Package biblatex Info: Reference segment=0 on input line 62.
+Package biblatex Info: Reference section=0 on input line 60.
+Package biblatex Info: Reference segment=0 on input line 60.
  ("./TecnDePrepMat - Ev1 - PEAG.nav") (/usr/local/texlive/2023/texmf-dist/tex/latex/elements/elements_names_spanish.def)
-Overfull \vbox (15.63992pt too high) detected at line 63
+Overfull \vbox (15.63992pt too high) detected at line 61
  []
 
 [1
 Non-PDF special ignored!
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+\openout6 = TecnDePrepMat - Ev1 - PEAG.ist
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] ("./TecnDePrepMat - Ev1 - PEAG.toc"
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [2
+
+] [3
+
+
+]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -1851,166 +1998,193 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <10.95> not available
-(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 65.
+(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 67.
 LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <8> not available
-(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 65.
+(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 67.
 LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <6> not available
-(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 65.
- [2
+(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 67.
+ [4
 
 ]
-<figuras/milling.png, id=33, 230.52792pt x 161.60374pt>
+<figuras/milling.png, id=71, 230.52792pt x 161.60374pt>
 File: figuras/milling.png Graphic file (type png)
 <use figuras/milling.png>
-Package luatex.def Info: figuras/milling.png  used on input line 90.
-(luatex.def)             Requested size: 278.83578pt x 195.48935pt.
+Package luatex.def Info: figuras/milling.png  used on input line 83.
+(luatex.def)             Requested size: 223.06947pt x 156.38309pt.
 
-Overfull \vbox (50.5088pt too high) detected at line 90
- []
-
-[3
-
-<./figuras/milling.png>]
-File: figuras/milling.png Graphic file (type png)
-<use figuras/milling.png>
-Package luatex.def Info: figuras/milling.png  used on input line 90.
-(luatex.def)             Requested size: 278.83578pt x 195.48935pt.
-
-Overfull \vbox (50.5088pt too high) detected at line 90
- []
-
-[4
-
-]
-Overfull \vbox (4.2053pt too high) detected at line 107
+Overfull \vbox (11.40254pt too high) detected at line 83
  []
 
 [5
 
-] [6
+<./figuras/milling.png>]
+File: figuras/milling.png Graphic file (type png)
+<use figuras/milling.png>
+Package luatex.def Info: figuras/milling.png  used on input line 83.
+(luatex.def)             Requested size: 223.06947pt x 156.38309pt.
 
-] [7
+Overfull \vbox (11.40254pt too high) detected at line 83
+ []
 
-] [8
-
-] [9
-
-] [10
-
-]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
- [11
-
-] [12
-
-] [13
-
-] [14
+[6
 
 ]
-LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <10> not available
-(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 228.
-LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <7> not available
-(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 228.
-LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <5> not available
-(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 228.
+Overfull \vbox (4.2053pt too high) detected at line 100
+ []
 
-Overfull \vbox (44.34671pt too high) detected at line 228
+[7
+
+]
+Overfull \vbox (4.2053pt too high) detected at line 100
+ []
+
+[8
+
+]
+Overfull \vbox (4.2053pt too high) detected at line 100
+ []
+
+[9
+
+]
+Overfull \vbox (4.2053pt too high) detected at line 100
+ []
+
+[10
+
+]
+Overfull \vbox (4.2053pt too high) detected at line 100
+ []
+
+[11
+
+]
+Overfull \vbox (4.2053pt too high) detected at line 100
+ []
+
+[12
+
+]
+Overfull \vbox (4.2053pt too high) detected at line 100
+ []
+
+[13
+
+]
+Overfull \vbox (4.2053pt too high) detected at line 100
+ []
+
+[14
+
+]
+Overfull \vbox (4.2053pt too high) detected at line 100
  []
 
 [15
 
-<./figuras/materiales/cu.jpg>]
-Overfull \vbox (44.34671pt too high) detected at line 228
+]
+Overfull \vbox (4.2053pt too high) detected at line 100
  []
 
 [16
 
-<./figuras/materiales/ti.jpg>]
-Overfull \vbox (44.34671pt too high) detected at line 228
- []
+] [17
 
-[17
+] [18
 
-<./figuras/materiales/zap.jpg>]
-Overfull \vbox (44.34671pt too high) detected at line 228
- []
+] [19
 
-[18
+] [20
 
-<./figuras/materiales/aga.jpeg>]
-Overfull \vbox (44.34671pt too high) detected at line 228
- []
+] [21
 
-[19
-
-<./figuras/materiales/por.jpg>]
-Overfull \vbox (44.34671pt too high) detected at line 228
- []
-
-[20
-
-<./figuras/materiales/sin.png>]
-Overfull \vbox (44.34671pt too high) detected at line 228
- []
-
-[21
-
-<./figuras/materiales/cube.jpg>] [22
+] [22
 
 ] [23
 
 ] [24
 
-]
-<figuras/efectoXRD.png, id=232, 586.44093pt x 459.21562pt>
-File: figuras/efectoXRD.png Graphic file (type png)
-<use figuras/efectoXRD.png>
-Package luatex.def Info: figuras/efectoXRD.png  used on input line 248.
-(luatex.def)             Requested size: 338.59023pt x 265.13301pt.
+] [25
 
-Overfull \vbox (108.95047pt too high) detected at line 248
+] [26
+
+] [27
+
+] [28
+
+]
+<figuras/big.png, id=229, 702.625pt x 702.625pt>
+File: figuras/big.png Graphic file (type png)
+<use figuras/big.png>
+Package luatex.def Info: figuras/big.png  used on input line 149.
+(luatex.def)             Requested size: 204.8603pt x 204.86061pt.
+
+Overfull \hbox (5.69101pt too wide) in paragraph at lines 149--149
+[][]
  []
 
-[25
 
-<./figuras/efectoXRD.png>] [26
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 
-]
-<figuras/Cs/vel1.jpeg, id=257, 652.4375pt x 176.66pt>
-File: figuras/Cs/vel1.jpeg Graphic file (type jpg)
-<use figuras/Cs/vel1.jpeg>
-Package luatex.def Info: figuras/Cs/vel1.jpeg  used on input line 275.
-(luatex.def)             Requested size: 358.50229pt x 97.07434pt.
- [27
+ []
 
-<./figuras/Cs/vel1.jpeg>]
-File: figuras/Cs/vel1.jpeg Graphic file (type jpg)
-<use figuras/Cs/vel1.jpeg>
-Package luatex.def Info: figuras/Cs/vel1.jpeg  used on input line 275.
-(luatex.def)             Requested size: 358.50229pt x 97.07434pt.
- [28
+<figuras/cryo.png, id=230, 338.76563pt x 338.76563pt>
+File: figuras/cryo.png Graphic file (type png)
+<use figuras/cryo.png>
+Package luatex.def Info: figuras/cryo.png  used on input line 149.
+(luatex.def)             Requested size: 204.86853pt x 204.86061pt.
 
-] [29
+Overfull \hbox (5.69923pt too wide) in paragraph at lines 149--149
+[][]
+ []
 
-] [30
 
-] [31
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 
-] [32
+ []
 
-] [33
 
-]
-LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <9> not available
-(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 318.
+Overfull \vbox (33.81013pt too high) detected at line 149
+ []
+
+[29
+
+<./figuras/big.png>]
+File: figuras/big.png Graphic file (type png)
+<use figuras/big.png>
+Package luatex.def Info: figuras/big.png  used on input line 149.
+(luatex.def)             Requested size: 204.8603pt x 204.86061pt.
+
+Overfull \hbox (5.69101pt too wide) in paragraph at lines 149--149
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+
+ []
+
+File: figuras/cryo.png Graphic file (type png)
+<use figuras/cryo.png>
+Package luatex.def Info: figuras/cryo.png  used on input line 149.
+(luatex.def)             Requested size: 204.86853pt x 204.86061pt.
+
+Overfull \hbox (5.69923pt too wide) in paragraph at lines 149--149
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+
+ []
+
+
+Overfull \vbox (33.81013pt too high) detected at line 149
+ []
+
+[30
+
+<./figuras/cryo.png>]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -2019,7 +2193,13 @@ LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <9> not avail
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [34
+ [31
+
+] [32
+
+] [33
+
+] [34
 
 ] [35
 
@@ -2031,63 +2211,336 @@ LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <9> not avail
 
 ] [39
 
+] [40
+
+] [41
+
+]
+LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <10> not available
+(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 222.
+LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <7> not available
+(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 222.
+LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <5> not available
+(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 222.
+
+Overfull \vbox (44.34671pt too high) detected at line 222
+ []
+
+[42
+
+<./figuras/materiales/cu.jpg>]
+Overfull \vbox (44.34671pt too high) detected at line 222
+ []
+
+[43
+
+<./figuras/materiales/ti.jpg>]
+Overfull \vbox (44.34671pt too high) detected at line 222
+ []
+
+[44
+
+<./figuras/materiales/zap.jpg>]
+Overfull \vbox (44.34671pt too high) detected at line 222
+ []
+
+[45
+
+<./figuras/materiales/aga.jpeg>]
+Overfull \vbox (44.34671pt too high) detected at line 222
+ []
+
+[46
+
+<./figuras/materiales/por.jpg>]
+Overfull \vbox (44.34671pt too high) detected at line 222
+ []
+
+[47
+
+<./figuras/materiales/sin.png>]
+Overfull \vbox (44.34671pt too high) detected at line 222
+ []
+
+[48
+
+<./figuras/materiales/cube.jpg>] [49
+
+] [50
+
+] [51
+
+] [52
+
+]
+<figuras/efectoXRD-ed.png, id=440, 781.92125pt x 612.2875pt>
+File: figuras/efectoXRD-ed.png Graphic file (type png)
+<use figuras/efectoXRD-ed.png>
+Package luatex.def Info: figuras/efectoXRD-ed.png  used on input line 245.
+(luatex.def)             Requested size: 228.91089pt x 179.25157pt.
+LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/bx/it' in size <9> not available
+(Font)              Font shape `TU/FiraSansLight(0)/b/it' tried instead on input line 245.
+
+Overfull \vbox (49.23697pt too high) detected at line 245
+ []
+
+[53
+
+<./figuras/efectoXRD-ed.png>] [54
+
+] [55
+
+]
+<figuras/Cs/vel1.jpeg, id=476, 652.4375pt x 176.66pt>
+File: figuras/Cs/vel1.jpeg Graphic file (type jpg)
+<use figuras/Cs/vel1.jpeg>
+Package luatex.def Info: figuras/Cs/vel1.jpeg  used on input line 274.
+(luatex.def)             Requested size: 358.50229pt x 97.07434pt.
+ [56
+
+<./figuras/Cs/vel1.jpeg>]
+File: figuras/Cs/vel1.jpeg Graphic file (type jpg)
+<use figuras/Cs/vel1.jpeg>
+Package luatex.def Info: figuras/Cs/vel1.jpeg  used on input line 274.
+(luatex.def)             Requested size: 358.50229pt x 97.07434pt.
+ [57
+
+] [58
+
+] [59
+
+] [60
+
+] [61
+
+] [62
+
+] [63
+
+] [64
+
+] [65
+
+] [66
+
+]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [67
+
+] [68
+
+] [69
+
+] [70
+
+] [71
+
+] [72
+
+] [73
+
+] [74
+
+] [75
+
+] [76
+
+] [77
+
+] [78
+
+] [79
+
+] [80
+
+] [81
+
+] [82
+
+] [83
+
+] [84
+
+] [85
+
+] [86
+
+] [87
+
+] [88
+
+] [89
+
+] [90
+
+]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [91
+
+]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [92
+
+]
+<figuras/suryanarayana2004p68-a.png, id=770, 1395.2125pt x 1019.81pt>
+File: figuras/suryanarayana2004p68-a.png Graphic file (type png)
+<use figuras/suryanarayana2004p68-a.png>
+Package luatex.def Info: figuras/suryanarayana2004p68-a.png  used on input line 443.
+(luatex.def)             Requested size: 280.27232pt x 204.86061pt.
+
+Overfull \vbox (32.9177pt too high) detected at line 443
+ []
+
+[93
+
+<./figuras/suryanarayana2004p68-a.png>]
+<figuras/suryanarayana2004p68-b.png, id=781, 1234.6125pt x 885.3075pt>
+File: figuras/suryanarayana2004p68-b.png Graphic file (type png)
+<use figuras/suryanarayana2004p68-b.png>
+Package luatex.def Info: figuras/suryanarayana2004p68-b.png  used on input line 451.
+(luatex.def)             Requested size: 285.68806pt x 204.86061pt.
+
+Overfull \vbox (32.9177pt too high) detected at line 451
+ []
+
+[94
+
+<./figuras/suryanarayana2004p68-b.png>] [95
+
+] [96
+
+] [97
+
+] [98
+
+] [99
+
+] [100
+
+]
+<figuras/Koch1995-XRD-a.png, id=843, 1433.355pt x 1029.8475pt>
+File: figuras/Koch1995-XRD-a.png Graphic file (type png)
+<use figuras/Koch1995-XRD-a.png>
+Package luatex.def Info: figuras/Koch1995-XRD-a.png  used on input line 499.
+(luatex.def)             Requested size: 285.11307pt x 204.86061pt.
+
+Overfull \vbox (21.01776pt too high) detected at line 499
+ []
+
+[101
+
+<./figuras/Koch1995-XRD-a.png>] [102
+
+] [103
+
+] [104
+
+] [105
+
+] [106
+
+] [107
+
+] [108
+
+] [109
+
+] [110
+
+] [111
+
 ]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraMono' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [40
+ [112
 
-</usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] [41
+</usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] [113
+
+
+] [114
+
+
+] [115
+
+
+] [116
 
 
 ]
-\tf@nav=\write7
+\tf@nav=\write9
 
-\openout7 = TecnDePrepMat - Ev1 - PEAG.nav
-\tf@toc=\write8
+\openout9 = TecnDePrepMat - Ev1 - PEAG.nav
+\tf@toc=\write10
 
-\openout8 = TecnDePrepMat - Ev1 - PEAG.toc
-\tf@snm=\write9
+\openout10 = TecnDePrepMat - Ev1 - PEAG.toc
+\tf@snm=\write11
 
-\openout9 = TecnDePrepMat - Ev1 - PEAG.snm
- ("./TecnDePrepMat - Ev1 - PEAG.aux"
-LaTeX Info: Redefining \sptext on input line 27.
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+\openout11 = TecnDePrepMat - Ev1 - PEAG.snm
+
+
+Package glossaries Warning: No \printglossary or \printglossaries found. 
+(Remove \makeglossaries if you don't want any glossaries.) 
+This document will not have a glossary.
+
+("./TecnDePrepMat - Ev1 - PEAG.aux"
+LaTeX Info: Redefining \sptext on input line 33.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
 )
  ***********
 LaTeX2e <2023-06-01> pre-release-2 (develop 2023-8-10 branch)
 L3 programming layer <2023-02-22>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                "TecnDePrepMat - Ev1 - PEAG"
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to '"TecnDePrepMat - Ev1 - PEAG".run.xml'.
 
 \openout1 = TecnDePrepMat - Ev1 - PEAG.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 59560 strings out of 478238
- 125031,2373549 words of node,token memory allocated
- 5257 words of node memory still in use:
-   30 hlist, 8 vlist, 6 rule, 23 disc, 3 local_par, 4 math, 99 glue, 57 kern, 35 penalty, 5 margin_kern, 306 glyph, 210 attribute, 89 glue_spec, 107 attribute_list, 5 write, 2 pdf_start_link, 2 pdf_end_link, 1 pdf_dest, 2 pdf_action, 28 pdf_colorstack nodes
-   avail lists: 1:2,2:1382,3:782,4:262,5:292,6:51,7:1815,8:66,9:778,10:17,11:214,12:1
- 76937 multiletter control sequences out of 65536+600000
+ 66343 strings out of 478238
+ 125031,2848258 words of node,token memory allocated
+ 4600 words of node memory still in use:
+   29 hlist, 8 vlist, 6 rule, 24 disc, 3 local_par, 2 math, 70 glue, 69 kern, 20 penalty, 4 margin_kern, 234 glyph, 216 attribute, 98 glue_spec, 110 attribute_list, 5 write, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_dest, 2 pdf_action, 28 pdf_colorstack nodes
+   avail lists: 1:12,2:2677,3:1496,4:361,5:815,6:65,7:4293,8:14,9:802,10:47,11:320,12:9
+ 83203 multiletter control sequences out of 65536+600000
  133 fonts using 26462023 bytes
- 128i,13n,131p,1894b,1998s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraMono-Regular.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Italic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-LightItalic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Light.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on TecnDePrepMat - Ev1 - PEAG.pdf (41 pages, 616057 bytes).
+ 128i,13n,129p,2271b,2414s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-PDF statistics: 445 PDF objects out of 1000 (max. 8388607)
- 238 compressed objects within 3 object streams
- 92 named destinations out of 1000 (max. 131072)
- 286 words of extra memory for PDF output out of 10000 (max. 100000000)
+warning  (pdf backend): unreferenced destination with name 'glo:PCA'
+
+warning  (pdf backend): unreferenced destination with name 'glo:YSZ'
+
+warning  (pdf backend): unreferenced destination with name 'glo:BPR'
+
+warning  (pdf backend): unreferenced destination with name 'glo:AM'
+</usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraMono-Regular.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Italic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-LightItalic.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Light.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on TecnDePrepMat - Ev1 - PEAG.pdf (116 pages, 2446283 bytes).
+
+PDF statistics: 1101 PDF objects out of 1200 (max. 8388607)
+ 757 compressed objects within 8 object streams
+ 265 named destinations out of 1000 (max. 131072)
+ 725 words of extra memory for PDF output out of 10000 (max. 100000000)
 
